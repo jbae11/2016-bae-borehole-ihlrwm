@@ -9,4 +9,13 @@ The ANS transactions template was added here from sethrj/anstrans.
 
 ### Compiling
 
-make pdf
+It is easiest to use the Makefile to compile this. Just type "make" in the 
+command line. A file called "abstract.pdf" will appear.
+
+
+If you want to do it without the make file, type:
+
+    pdflatex abstract
+    bibtex abstract
+    pdflatex abstract
+    pdflatex abstract
