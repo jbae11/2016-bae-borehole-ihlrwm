@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{arnold_research_2012}
+\MakeUppercase{B.~W. Arnold}, \MakeUppercase{P.~Vaughn},
+  \MakeUppercase{R.~MacKinnon}, \MakeUppercase{J.~Tillman},
+  \MakeUppercase{D.~Nielson}, \MakeUppercase{P.~Brady},
+  \MakeUppercase{W.~Halsey}, and \MakeUppercase{S.~Altman}, \enquote{Research,
+  {Development}, and {Demonstration} {Roadmap} for {Deep} {Borehole}
+  {Disposal},} \emph{SAND2012- 8527P. Albuquerque, NM: Sandia National
+  Laboratories} (2012).
+
+\bibitem{brady_deep_2009}
+\MakeUppercase{P.~V. Brady}, \MakeUppercase{B.~W. Arnold}, \MakeUppercase{G.~A.
+  Freeze}, \MakeUppercase{P.~N. Swift}, \MakeUppercase{S.~J. Bauer},
+  \MakeUppercase{J.~L. Kanney}, \MakeUppercase{R.~P. Rechard}, and
+  \MakeUppercase{J.~S. Stein}, \enquote{Deep borehole disposal of high-level
+  radioactive waste,} \emph{SAND2009-4401, Sandia National Laboratories}
+  (2009).
+
+\bibitem{waleed_regional_2015}
+\MakeUppercase{A.~Waleed}, \MakeUppercase{J.~W. Bae},
+  \MakeUppercase{R.~Balder}, \MakeUppercase{K.~Bear},
+  \MakeUppercase{M.~Benedict}, \MakeUppercase{B.~Blecha},
+  \MakeUppercase{S.~Bobbins}, \MakeUppercase{J.~Bowman},
+  \MakeUppercase{N.~Bridge}, \MakeUppercase{G.~Chappell},
+  \MakeUppercase{D.~Chun}, \MakeUppercase{K.~D’Souza},
+  \MakeUppercase{M.~Dost}, \MakeUppercase{E.~Gillum},
+  \MakeUppercase{G.~Gusloff}, \MakeUppercase{B.~He}, \MakeUppercase{J.~Helck},
+  \MakeUppercase{H.~Hernadez}, \MakeUppercase{S.~Jensen},
+  \MakeUppercase{J.~Joseph}, \MakeUppercase{P.~Louie},
+  \MakeUppercase{A.~Loumis}, \MakeUppercase{J.~Lu},
+  \MakeUppercase{J.~Lucas-Lukose}, \MakeUppercase{B.~Medina},
+  \MakeUppercase{J.~Mitchell}, \MakeUppercase{T.~Murase},
+  \MakeUppercase{D.~O’Grady}, \MakeUppercase{P.~Ota},
+  \MakeUppercase{J.~Pachicano}, \MakeUppercase{P.~Gustavo},
+  \MakeUppercase{P.~Polak}, \MakeUppercase{D.~Qerimi}, \MakeUppercase{E.~Rash},
+  \MakeUppercase{J.~Riccio}, \MakeUppercase{E.~Riewski},
+  \MakeUppercase{L.~Roby}, \MakeUppercase{X.~Sang}, \MakeUppercase{S.~Nirali},
+  \MakeUppercase{K.~Smith}, \MakeUppercase{R.~Spreadbury},
+  \MakeUppercase{A.~Spring}, \MakeUppercase{D.~Strat},
+  \MakeUppercase{R.~Trivedi}, \MakeUppercase{J.~Weberski},
+  \MakeUppercase{T.~Williams}, and \MakeUppercase{C.~Zircher}, \emph{Regional
+  {Deep} {Borehole} {Nuclear} {Fuel} {Repository}: {Requirements} for a {Site}
+  {License} {Application}}, [DRAFT], University of Illinois at Urbana-Champaign
+  (May 2015).
+
+\bibitem{nuclear_regulatory_commission_nrc_2015}
+\MakeUppercase{{Nuclear Regulatory Commission}}, \enquote{{NRC} {Maps} of
+  {Decommissioning} {Sites},}  (Jul. 2015).
+
+\end{thebibliography}
