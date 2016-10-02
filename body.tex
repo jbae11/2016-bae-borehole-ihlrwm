@@ -1,0 +1,115 @@
+\documentclass{anstrans}
+
+%%%% packages and definitions (optional)
+\usepackage{graphicx} % allows inclusion of graphics
+\usepackage{booktabs} % nice rules (thick lines) for tables
+\usepackage{microtype} % improves typography for PDF
+
+\newcommand{\SN}{S$_N$}
+\renewcommand{\vec}[1]{\bm{#1}} %vector is bold italic
+\newcommand{\vd}{\bm{\cdot}} % slightly bold vector dot
+\newcommand{\grad}{\vec{\nabla}} % gradient
+\newcommand{\ud}{\mathop{}\!\mathrm{d}} % upright derivative symbol
+
+
+\title{Benefits of Siting a Borehole Repository on Non-Operating Nuclear 
+Facility}
+\author{Jin Whan Bae, William Roy, Kathryn Huff}
+
+\institute{
+Dept. of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign
+\and
+Urbana, IL
+}
+\email{jbae11@illinois.edu}
+
+
+%%%% Acronym support
+
+\usepackage[acronym,toc]{glossaries}
+\include{acros}
+
+	
+\makeglossaries
+
+
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Case Definition and Methodology}
+
+A proposed case is building a 70,000 \gls{MTHM} capacity borehole repository at the Clinton Power Plant in Illinois. The base case is to build a standalone borehole repository at a location similar to that of Yucca Mountain with the same capacity. 
+
+\subsection{Proposed Case Methodology and Definition}
+The proposed case is siting a borehole repository at a shut-down power plant.
+ In order to minimize transport cost, a central location is preferred. An
+  elementary analysis on the transportation of spent fuel is done by
+   calculating the total amount of waste times the distance it has to travel
+    ( in units of MTHM*km). The distance between each storage site 
+    (i.e. reactors and \gls{ISFSI}) is calculated by 
+    using the havershine formula on the geographical coordinates of the sites. The
+     coordinates and spent fuel inventory data
+    is from the GC-859 data from the \gls{EIA} %\cite{?????}
+    and the \gls{CURIE} website.
+     From the list of 74 reactors, several candidates
+    with the smallest MTHM*Km value is listed below:
+    
+    
+\begin{table}[h]
+\centering
+    \caption { Reactors with least MTHM*Km value}
+	\begin{tabular}{l|l|l|l}
+	\hline
+	Reactor & State & $MTHM*km$ & License Area [$km^2$]  \\ \hline
+	Clinton & Illinois &  77,352,339 & 57.87   \\ \hline
+	Peach Bottom & Pennsylvania & 85,563,135 & 2.509   \\ \hline
+	Indian Point &   New York & 77,352,339 & ?????   \\ \hline
+	Dresden & Illinois &  77,663,969 & 3.856   \\ \hline
+	
+	\end{tabular}
+\end {table}
+
+
+The Clinton Power Plant is chosen as the site for the proposed case due to its
+low $MTHM*km^2$ value and substantially large license area. Considering that only
+ $30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton power plant allows more than  enough space to site a borehole repository, which avoids
+  possible conflicts with the community from purchasing and utilizing more land.
+  
+\subsection{Base Case Methodology and Definition}
+The base case is presented in order to demonstrate the cost savings and efficiencies 
+that arise from the proposed case. The base case mimics the Yucca Mountain Project
+ except the design. Costs include new licensing and processing facility for repacking 
+the spent fuel assemblies.
+
+%%%%%%%%%%%%%%% Temporarily disabled Table %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    
+\iffalse
+
+\begin{table}[h]
+\centering
+\caption {Incentive Criterion and Weight for Each Stakeholder}
+	\begin{tabular}{l|l|l|l|l|l}
+	\hline
+	 & Federal & State & Local & Utility & Environmental \\ \hline
+	Job Creation &   & 1 & 3 & 1 &   \\ \hline
+	Transport[$MTHM*km$] & 2 & 1 & 2 & & 2\\ \hline
+	No Need for new treatment license & 2 & & & 1 & \\ \hline
+	Emptying Spent Fuel Storage Pools & 3 & & & 3 & \\ \hline
+	Net Cost & 3 & & & 3 & \\ \hline
+	No New Above-Ground Facility Construction & 3 & & & 3 & \\ \hline
+	
+	\end{tabular}
+\end{table}
+
+\fi
+
+
+
+%%%%%%%%%%%%%%% Temporarily disabled Table %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\bibliographystyle{ans}
+\bibliography{bibliography}
+
+\end{document}
