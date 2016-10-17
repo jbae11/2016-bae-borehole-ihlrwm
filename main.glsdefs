@@ -1,0 +1,4050 @@
+\ifglsentryexists{MTHM}{}%
+{%
+\gls@defglossaryentry{MTHM}%
+{%
+name={MTHM},%
+sort={MTHM},%
+type={acronym},%
+first={metric ton of heavy metal\glsspace (MTHM)},%
+firstplural={metric tons of heavy metal\glsspace (MTHM\acrpluralsuffix )},%
+text={MTHM},%
+plural={MTHM\acrpluralsuffix },%
+description={metric ton of heavy metal},%
+descriptionplural={metric tons of heavy metal},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={metric ton of heavy metal},%
+longplural={metric tons of heavy metal},%
+short={MTHM},%
+shortplural={MTHMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ABM}{}%
+{%
+\gls@defglossaryentry{ABM}%
+{%
+name={ABM},%
+sort={ABM},%
+type={acronym},%
+first={agent-based modeling\glsspace (ABM)},%
+firstplural={agent-based modeling\acrpluralsuffix \glsspace (ABM\acrpluralsuffix )},%
+text={ABM},%
+plural={ABM\acrpluralsuffix },%
+description={agent-based modeling},%
+descriptionplural={agent-based modeling\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={agent-based modeling},%
+longplural={agent-based modelings},%
+short={ABM},%
+shortplural={ABMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ACDIS}{}%
+{%
+\gls@defglossaryentry{ACDIS}%
+{%
+name={ACDIS},%
+sort={ACDIS},%
+type={acronym},%
+first={Program in Arms Control \& Domestic and International Security\glsspace (ACDIS)},%
+firstplural={Program in Arms Control \& Domestic and International Security\acrpluralsuffix \glsspace (ACDIS\acrpluralsuffix )},%
+text={ACDIS},%
+plural={ACDIS\acrpluralsuffix },%
+description={Program in Arms Control \& Domestic and International Security},%
+descriptionplural={Program in Arms Control \& Domestic and International Security\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Program in Arms Control \& Domestic and International Security},%
+longplural={Program in Arms Control \& Domestic and International Securitys},%
+short={ACDIS},%
+shortplural={ACDISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{AHTR}{}%
+{%
+\gls@defglossaryentry{AHTR}%
+{%
+name={AHTR},%
+sort={AHTR},%
+type={acronym},%
+first={Advanced High Temperature Reactor\glsspace (AHTR)},%
+firstplural={Advanced High Temperature Reactor\acrpluralsuffix \glsspace (AHTR\acrpluralsuffix )},%
+text={AHTR},%
+plural={AHTR\acrpluralsuffix },%
+description={Advanced High Temperature Reactor},%
+descriptionplural={Advanced High Temperature Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Advanced High Temperature Reactor},%
+longplural={Advanced High Temperature Reactors},%
+short={AHTR},%
+shortplural={AHTRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ANDRA}{}%
+{%
+\gls@defglossaryentry{ANDRA}%
+{%
+name={ANDRA},%
+sort={ANDRA},%
+type={acronym},%
+first={Agence Nationale pour la gestion des D\'echets RAdioactifs, the French National Agency for Radioactive Waste Management\glsspace (ANDRA)},%
+firstplural={Agence Nationale pour la gestion des D\'echets RAdioactifs, the French National Agency for Radioactive Waste Management\acrpluralsuffix \glsspace (ANDRA\acrpluralsuffix )},%
+text={ANDRA},%
+plural={ANDRA\acrpluralsuffix },%
+description={Agence Nationale pour la gestion des D\'echets RAdioactifs, the French National Agency for Radioactive Waste Management},%
+descriptionplural={Agence Nationale pour la gestion des D\'echets RAdioactifs, the French National Agency for Radioactive Waste Management\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Agence Nationale pour la gestion des D\'echets RAdioactifs, the French National Agency for Radioactive Waste Management},%
+longplural={Agence Nationale pour la gestion des D\'echets RAdioactifs, the French National Agency for Radioactive Waste Managements},%
+short={ANDRA},%
+shortplural={ANDRAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ANL}{}%
+{%
+\gls@defglossaryentry{ANL}%
+{%
+name={ANL},%
+sort={ANL},%
+type={acronym},%
+first={Argonne National Laboratory\glsspace (ANL)},%
+firstplural={Argonne National Laboratory\acrpluralsuffix \glsspace (ANL\acrpluralsuffix )},%
+text={ANL},%
+plural={ANL\acrpluralsuffix },%
+description={Argonne National Laboratory},%
+descriptionplural={Argonne National Laboratory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Argonne National Laboratory},%
+longplural={Argonne National Laboratorys},%
+short={ANL},%
+shortplural={ANLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{API}{}%
+{%
+\gls@defglossaryentry{API}%
+{%
+name={API},%
+sort={API},%
+type={acronym},%
+first={application programming interface\glsspace (API)},%
+firstplural={application programming interface\acrpluralsuffix \glsspace (API\acrpluralsuffix )},%
+text={API},%
+plural={API\acrpluralsuffix },%
+description={application programming interface},%
+descriptionplural={application programming interface\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={application programming interface},%
+longplural={application programming interfaces},%
+short={API},%
+shortplural={APIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ASME}{}%
+{%
+\gls@defglossaryentry{ASME}%
+{%
+name={ASME},%
+sort={ASME},%
+type={acronym},%
+first={American Society of Mechanical Engineers\glsspace (ASME)},%
+firstplural={American Society of Mechanical Engineers\acrpluralsuffix \glsspace (ASME\acrpluralsuffix )},%
+text={ASME},%
+plural={ASME\acrpluralsuffix },%
+description={American Society of Mechanical Engineers},%
+descriptionplural={American Society of Mechanical Engineers\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={American Society of Mechanical Engineers},%
+longplural={American Society of Mechanical Engineerss},%
+short={ASME},%
+shortplural={ASMEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ATWS}{}%
+{%
+\gls@defglossaryentry{ATWS}%
+{%
+name={ATWS},%
+sort={ATWS},%
+type={acronym},%
+first={Anticipated Transient Without Scram\glsspace (ATWS)},%
+firstplural={Anticipated Transient Without Scram\acrpluralsuffix \glsspace (ATWS\acrpluralsuffix )},%
+text={ATWS},%
+plural={ATWS\acrpluralsuffix },%
+description={Anticipated Transient Without Scram},%
+descriptionplural={Anticipated Transient Without Scram\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Anticipated Transient Without Scram},%
+longplural={Anticipated Transient Without Scrams},%
+short={ATWS},%
+shortplural={ATWSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BDBE}{}%
+{%
+\gls@defglossaryentry{BDBE}%
+{%
+name={BDBE},%
+sort={BDBE},%
+type={acronym},%
+first={Beyond Design Basis Event\glsspace (BDBE)},%
+firstplural={Beyond Design Basis Event\acrpluralsuffix \glsspace (BDBE\acrpluralsuffix )},%
+text={BDBE},%
+plural={BDBE\acrpluralsuffix },%
+description={Beyond Design Basis Event},%
+descriptionplural={Beyond Design Basis Event\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Beyond Design Basis Event},%
+longplural={Beyond Design Basis Events},%
+short={BDBE},%
+shortplural={BDBEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BIDS}{}%
+{%
+\gls@defglossaryentry{BIDS}%
+{%
+name={BIDS},%
+sort={BIDS},%
+type={acronym},%
+first={Berkeley Institute for Data Science\glsspace (BIDS)},%
+firstplural={Berkeley Institute for Data Science\acrpluralsuffix \glsspace (BIDS\acrpluralsuffix )},%
+text={BIDS},%
+plural={BIDS\acrpluralsuffix },%
+description={Berkeley Institute for Data Science},%
+descriptionplural={Berkeley Institute for Data Science\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Berkeley Institute for Data Science},%
+longplural={Berkeley Institute for Data Sciences},%
+short={BIDS},%
+shortplural={BIDSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CAFCA}{}%
+{%
+\gls@defglossaryentry{CAFCA}%
+{%
+name={CAFCA},%
+sort={CAFCA},%
+type={acronym},%
+first={Code for Advanced Fuel Cycles Assessment \glsspace (CAFCA)},%
+firstplural={Code for Advanced Fuel Cycles Assessment \acrpluralsuffix \glsspace (CAFCA\acrpluralsuffix )},%
+text={CAFCA},%
+plural={CAFCA\acrpluralsuffix },%
+description={Code for Advanced Fuel Cycles Assessment},%
+descriptionplural={Code for Advanced Fuel Cycles Assessment \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Code for Advanced Fuel Cycles Assessment},%
+longplural={Code for Advanced Fuel Cycles Assessment s},%
+short={CAFCA},%
+shortplural={CAFCAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CDTN}{}%
+{%
+\gls@defglossaryentry{CDTN}%
+{%
+name={CDTN},%
+sort={CDTN},%
+type={acronym},%
+first={Centro de Desenvolvimento da Tecnologia Nuclear\glsspace (CDTN)},%
+firstplural={Centro de Desenvolvimento da Tecnologia Nuclear\acrpluralsuffix \glsspace (CDTN\acrpluralsuffix )},%
+text={CDTN},%
+plural={CDTN\acrpluralsuffix },%
+description={Centro de Desenvolvimento da Tecnologia Nuclear},%
+descriptionplural={Centro de Desenvolvimento da Tecnologia Nuclear\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Centro de Desenvolvimento da Tecnologia Nuclear},%
+longplural={Centro de Desenvolvimento da Tecnologia Nuclears},%
+short={CDTN},%
+shortplural={CDTNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CEA}{}%
+{%
+\gls@defglossaryentry{CEA}%
+{%
+name={CEA},%
+sort={CEA},%
+type={acronym},%
+first={Commissariat \`a l'\'Energie Atomique et aux \'Energies Alternatives\glsspace (CEA)},%
+firstplural={Commissariat \`a l'\'Energie Atomique et aux \'Energies Alternatives\acrpluralsuffix \glsspace (CEA\acrpluralsuffix )},%
+text={CEA},%
+plural={CEA\acrpluralsuffix },%
+description={Commissariat \`a l'\'Energie Atomique et aux \'Energies Alternatives},%
+descriptionplural={Commissariat \`a l'\'Energie Atomique et aux \'Energies Alternatives\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Commissariat \`a l'\'Energie Atomique et aux \'Energies Alternatives},%
+longplural={Commissariat \`a l'\'Energie Atomique et aux \'Energies Alternativess},%
+short={CEA},%
+shortplural={CEAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CI}{}%
+{%
+\gls@defglossaryentry{CI}%
+{%
+name={CI},%
+sort={CI},%
+type={acronym},%
+first={continuous integration\glsspace (CI)},%
+firstplural={continuous integration\acrpluralsuffix \glsspace (CI\acrpluralsuffix )},%
+text={CI},%
+plural={CI\acrpluralsuffix },%
+description={continuous integration},%
+descriptionplural={continuous integration\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={continuous integration},%
+longplural={continuous integrations},%
+short={CI},%
+shortplural={CIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CNEN}{}%
+{%
+\gls@defglossaryentry{CNEN}%
+{%
+name={CNEN},%
+sort={CNEN},%
+type={acronym},%
+first={Comiss\~{a}o Nacional de Energia Nuclear\glsspace (CNEN)},%
+firstplural={Comiss\~{a}o Nacional de Energia Nuclear\acrpluralsuffix \glsspace (CNEN\acrpluralsuffix )},%
+text={CNEN},%
+plural={CNEN\acrpluralsuffix },%
+description={Comiss\~{a}o Nacional de Energia Nuclear},%
+descriptionplural={Comiss\~{a}o Nacional de Energia Nuclear\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Comiss\~{a}o Nacional de Energia Nuclear},%
+longplural={Comiss\~{a}o Nacional de Energia Nuclears},%
+short={CNEN},%
+shortplural={CNENs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CNERG}{}%
+{%
+\gls@defglossaryentry{CNERG}%
+{%
+name={CNERG},%
+sort={CNERG},%
+type={acronym},%
+first={Computational Nuclear Engineering Research Group\glsspace (CNERG)},%
+firstplural={Computational Nuclear Engineering Research Group\acrpluralsuffix \glsspace (CNERG\acrpluralsuffix )},%
+text={CNERG},%
+plural={CNERG\acrpluralsuffix },%
+description={Computational Nuclear Engineering Research Group},%
+descriptionplural={Computational Nuclear Engineering Research Group\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computational Nuclear Engineering Research Group},%
+longplural={Computational Nuclear Engineering Research Groups},%
+short={CNERG},%
+shortplural={CNERGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{COSI}{}%
+{%
+\gls@defglossaryentry{COSI}%
+{%
+name={COSI},%
+sort={COSI},%
+type={acronym},%
+first={Commelini-Sicard\glsspace (COSI)},%
+firstplural={Commelini-Sicard\acrpluralsuffix \glsspace (COSI\acrpluralsuffix )},%
+text={COSI},%
+plural={COSI\acrpluralsuffix },%
+description={Commelini-Sicard},%
+descriptionplural={Commelini-Sicard\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Commelini-Sicard},%
+longplural={Commelini-Sicards},%
+short={COSI},%
+shortplural={COSIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{COTS}{}%
+{%
+\gls@defglossaryentry{COTS}%
+{%
+name={COTS},%
+sort={COTS},%
+type={acronym},%
+first={commercial, off-the-shelf\glsspace (COTS)},%
+firstplural={commercial, off-the-shelf\acrpluralsuffix \glsspace (COTS\acrpluralsuffix )},%
+text={COTS},%
+plural={COTS\acrpluralsuffix },%
+description={commercial, off-the-shelf},%
+descriptionplural={commercial, off-the-shelf\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={commercial, off-the-shelf},%
+longplural={commercial, off-the-shelfs},%
+short={COTS},%
+shortplural={COTSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CSNF}{}%
+{%
+\gls@defglossaryentry{CSNF}%
+{%
+name={CSNF},%
+sort={CSNF},%
+type={acronym},%
+first={commercial spent nuclear fuel\glsspace (CSNF)},%
+firstplural={commercial spent nuclear fuel\acrpluralsuffix \glsspace (CSNF\acrpluralsuffix )},%
+text={CSNF},%
+plural={CSNF\acrpluralsuffix },%
+description={commercial spent nuclear fuel},%
+descriptionplural={commercial spent nuclear fuel\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={commercial spent nuclear fuel},%
+longplural={commercial spent nuclear fuels},%
+short={CSNF},%
+shortplural={CSNFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CTAH}{}%
+{%
+\gls@defglossaryentry{CTAH}%
+{%
+name={CTAHs},%
+sort={CTAHs},%
+type={acronym},%
+first={Coiled Tube Air Heaters\glsspace (CTAHs)},%
+firstplural={Coiled Tube Air Heaters\acrpluralsuffix \glsspace (CTAHs\acrpluralsuffix )},%
+text={CTAHs},%
+plural={CTAHs\acrpluralsuffix },%
+description={Coiled Tube Air Heaters},%
+descriptionplural={Coiled Tube Air Heaters\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Coiled Tube Air Heaters},%
+longplural={Coiled Tube Air Heaterss},%
+short={CTAHs},%
+shortplural={CTAHss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CUBIT}{}%
+{%
+\gls@defglossaryentry{CUBIT}%
+{%
+name={CUBIT},%
+sort={CUBIT},%
+type={acronym},%
+first={CUBIT Geometry and Mesh Generation Toolkit\glsspace (CUBIT)},%
+firstplural={CUBIT Geometry and Mesh Generation Toolkit\acrpluralsuffix \glsspace (CUBIT\acrpluralsuffix )},%
+text={CUBIT},%
+plural={CUBIT\acrpluralsuffix },%
+description={CUBIT Geometry and Mesh Generation Toolkit},%
+descriptionplural={CUBIT Geometry and Mesh Generation Toolkit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={CUBIT Geometry and Mesh Generation Toolkit},%
+longplural={CUBIT Geometry and Mesh Generation Toolkits},%
+short={CUBIT},%
+shortplural={CUBITs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CURIE}{}%
+{%
+\gls@defglossaryentry{CURIE}%
+{%
+name={CURIE},%
+sort={CURIE},%
+type={acronym},%
+first={Centralized Used Fuel Resource for Information Exchange\glsspace (CURIE)},%
+firstplural={Centralized Used Fuel Resource for Information Exchange\acrpluralsuffix \glsspace (CURIE\acrpluralsuffix )},%
+text={CURIE},%
+plural={CURIE\acrpluralsuffix },%
+description={Centralized Used Fuel Resource for Information Exchange},%
+descriptionplural={Centralized Used Fuel Resource for Information Exchange\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Centralized Used Fuel Resource for Information Exchange},%
+longplural={Centralized Used Fuel Resource for Information Exchanges},%
+short={CURIE},%
+shortplural={CURIEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DAG}{}%
+{%
+\gls@defglossaryentry{DAG}%
+{%
+name={DAG},%
+sort={DAG},%
+type={acronym},%
+first={directed acyclic graph\glsspace (DAG)},%
+firstplural={directed acyclic graph\acrpluralsuffix \glsspace (DAG\acrpluralsuffix )},%
+text={DAG},%
+plural={DAG\acrpluralsuffix },%
+description={directed acyclic graph},%
+descriptionplural={directed acyclic graph\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={directed acyclic graph},%
+longplural={directed acyclic graphs},%
+short={DAG},%
+shortplural={DAGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DANESS}{}%
+{%
+\gls@defglossaryentry{DANESS}%
+{%
+name={DANESS},%
+sort={DANESS},%
+type={acronym},%
+first={Dynamic Analysis of Nuclear Energy System Strategies\glsspace (DANESS)},%
+firstplural={Dynamic Analysis of Nuclear Energy System Strategies\acrpluralsuffix \glsspace (DANESS\acrpluralsuffix )},%
+text={DANESS},%
+plural={DANESS\acrpluralsuffix },%
+description={Dynamic Analysis of Nuclear Energy System Strategies},%
+descriptionplural={Dynamic Analysis of Nuclear Energy System Strategies\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dynamic Analysis of Nuclear Energy System Strategies},%
+longplural={Dynamic Analysis of Nuclear Energy System Strategiess},%
+short={DANESS},%
+shortplural={DANESSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DBE}{}%
+{%
+\gls@defglossaryentry{DBE}%
+{%
+name={DBE},%
+sort={DBE},%
+type={acronym},%
+first={Design Basis Event\glsspace (DBE)},%
+firstplural={Design Basis Event\acrpluralsuffix \glsspace (DBE\acrpluralsuffix )},%
+text={DBE},%
+plural={DBE\acrpluralsuffix },%
+description={Design Basis Event},%
+descriptionplural={Design Basis Event\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Design Basis Event},%
+longplural={Design Basis Events},%
+short={DBE},%
+shortplural={DBEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DESAE}{}%
+{%
+\gls@defglossaryentry{DESAE}%
+{%
+name={DESAE},%
+sort={DESAE},%
+type={acronym},%
+first={Dynamic Analysis of Nuclear Energy Systems Strategies\glsspace (DESAE)},%
+firstplural={Dynamic Analysis of Nuclear Energy Systems Strategies\acrpluralsuffix \glsspace (DESAE\acrpluralsuffix )},%
+text={DESAE},%
+plural={DESAE\acrpluralsuffix },%
+description={Dynamic Analysis of Nuclear Energy Systems Strategies},%
+descriptionplural={Dynamic Analysis of Nuclear Energy Systems Strategies\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dynamic Analysis of Nuclear Energy Systems Strategies},%
+longplural={Dynamic Analysis of Nuclear Energy Systems Strategiess},%
+short={DESAE},%
+shortplural={DESAEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DHS}{}%
+{%
+\gls@defglossaryentry{DHS}%
+{%
+name={DHS},%
+sort={DHS},%
+type={acronym},%
+first={Department of Homeland Security\glsspace (DHS)},%
+firstplural={Department of Homeland Security\acrpluralsuffix \glsspace (DHS\acrpluralsuffix )},%
+text={DHS},%
+plural={DHS\acrpluralsuffix },%
+description={Department of Homeland Security},%
+descriptionplural={Department of Homeland Security\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Department of Homeland Security},%
+longplural={Department of Homeland Securitys},%
+short={DHS},%
+shortplural={DHSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DOE}{}%
+{%
+\gls@defglossaryentry{DOE}%
+{%
+name={DOE},%
+sort={DOE},%
+type={acronym},%
+first={Department of Energy\glsspace (DOE)},%
+firstplural={Department of Energy\acrpluralsuffix \glsspace (DOE\acrpluralsuffix )},%
+text={DOE},%
+plural={DOE\acrpluralsuffix },%
+description={Department of Energy},%
+descriptionplural={Department of Energy\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Department of Energy},%
+longplural={Department of Energys},%
+short={DOE},%
+shortplural={DOEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DRACS}{}%
+{%
+\gls@defglossaryentry{DRACS}%
+{%
+name={DRACS},%
+sort={DRACS},%
+type={acronym},%
+first={Direct Reactor Auxiliary Cooling System\glsspace (DRACS)},%
+firstplural={Direct Reactor Auxiliary Cooling System\acrpluralsuffix \glsspace (DRACS\acrpluralsuffix )},%
+text={DRACS},%
+plural={DRACS\acrpluralsuffix },%
+description={Direct Reactor Auxiliary Cooling System},%
+descriptionplural={Direct Reactor Auxiliary Cooling System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Direct Reactor Auxiliary Cooling System},%
+longplural={Direct Reactor Auxiliary Cooling Systems},%
+short={DRACS},%
+shortplural={DRACSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DRE}{}%
+{%
+\gls@defglossaryentry{DRE}%
+{%
+name={DRE},%
+sort={DRE},%
+type={acronym},%
+first={dynamic resource exchange\glsspace (DRE)},%
+firstplural={dynamic resource exchange\acrpluralsuffix \glsspace (DRE\acrpluralsuffix )},%
+text={DRE},%
+plural={DRE\acrpluralsuffix },%
+description={dynamic resource exchange},%
+descriptionplural={dynamic resource exchange\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={dynamic resource exchange},%
+longplural={dynamic resource exchanges},%
+short={DRE},%
+shortplural={DREs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DSNF}{}%
+{%
+\gls@defglossaryentry{DSNF}%
+{%
+name={DSNF},%
+sort={DSNF},%
+type={acronym},%
+first={DOE spent nuclear fuel\glsspace (DSNF)},%
+firstplural={DOE spent nuclear fuel\acrpluralsuffix \glsspace (DSNF\acrpluralsuffix )},%
+text={DSNF},%
+plural={DSNF\acrpluralsuffix },%
+description={DOE spent nuclear fuel},%
+descriptionplural={DOE spent nuclear fuel\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={DOE spent nuclear fuel},%
+longplural={DOE spent nuclear fuels},%
+short={DSNF},%
+shortplural={DSNFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DYMOND}{}%
+{%
+\gls@defglossaryentry{DYMOND}%
+{%
+name={DYMOND},%
+sort={DYMOND},%
+type={acronym},%
+first={Dynamic Model of Nuclear Development \glsspace (DYMOND)},%
+firstplural={Dynamic Model of Nuclear Development \acrpluralsuffix \glsspace (DYMOND\acrpluralsuffix )},%
+text={DYMOND},%
+plural={DYMOND\acrpluralsuffix },%
+description={Dynamic Model of Nuclear Development},%
+descriptionplural={Dynamic Model of Nuclear Development \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dynamic Model of Nuclear Development},%
+longplural={Dynamic Model of Nuclear Development s},%
+short={DYMOND},%
+shortplural={DYMONDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EBS}{}%
+{%
+\gls@defglossaryentry{EBS}%
+{%
+name={EBS},%
+sort={EBS},%
+type={acronym},%
+first={Engineered Barrier System\glsspace (EBS)},%
+firstplural={Engineered Barrier System\acrpluralsuffix \glsspace (EBS\acrpluralsuffix )},%
+text={EBS},%
+plural={EBS\acrpluralsuffix },%
+description={Engineered Barrier System},%
+descriptionplural={Engineered Barrier System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Engineered Barrier System},%
+longplural={Engineered Barrier Systems},%
+short={EBS},%
+shortplural={EBSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EDZ}{}%
+{%
+\gls@defglossaryentry{EDZ}%
+{%
+name={EDZ},%
+sort={EDZ},%
+type={acronym},%
+first={Excavation Disturbed Zone\glsspace (EDZ)},%
+firstplural={Excavation Disturbed Zone\acrpluralsuffix \glsspace (EDZ\acrpluralsuffix )},%
+text={EDZ},%
+plural={EDZ\acrpluralsuffix },%
+description={Excavation Disturbed Zone},%
+descriptionplural={Excavation Disturbed Zone\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Excavation Disturbed Zone},%
+longplural={Excavation Disturbed Zones},%
+short={EDZ},%
+shortplural={EDZs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EIA}{}%
+{%
+\gls@defglossaryentry{EIA}%
+{%
+name={EIA},%
+sort={EIA},%
+type={acronym},%
+first={U.S. Energy Information Administration\glsspace (EIA)},%
+firstplural={U.S. Energy Information Administration\acrpluralsuffix \glsspace (EIA\acrpluralsuffix )},%
+text={EIA},%
+plural={EIA\acrpluralsuffix },%
+description={U.S. Energy Information Administration},%
+descriptionplural={U.S. Energy Information Administration\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={U.S. Energy Information Administration},%
+longplural={U.S. Energy Information Administrations},%
+short={EIA},%
+shortplural={EIAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EPA}{}%
+{%
+\gls@defglossaryentry{EPA}%
+{%
+name={EPA},%
+sort={EPA},%
+type={acronym},%
+first={Environmental Protection Agency\glsspace (EPA)},%
+firstplural={Environmental Protection Agency\acrpluralsuffix \glsspace (EPA\acrpluralsuffix )},%
+text={EPA},%
+plural={EPA\acrpluralsuffix },%
+description={Environmental Protection Agency},%
+descriptionplural={Environmental Protection Agency\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Environmental Protection Agency},%
+longplural={Environmental Protection Agencys},%
+short={EPA},%
+shortplural={EPAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EP}{}%
+{%
+\gls@defglossaryentry{EP}%
+{%
+name={EP},%
+sort={EP},%
+type={acronym},%
+first={Engineering Physics\glsspace (EP)},%
+firstplural={Engineering Physics\acrpluralsuffix \glsspace (EP\acrpluralsuffix )},%
+text={EP},%
+plural={EP\acrpluralsuffix },%
+description={Engineering Physics},%
+descriptionplural={Engineering Physics\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Engineering Physics},%
+longplural={Engineering Physicss},%
+short={EP},%
+shortplural={EPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FCO}{}%
+{%
+\gls@defglossaryentry{FCO}%
+{%
+name={FCO},%
+sort={FCO},%
+type={acronym},%
+first={Fuel Cycle Options\glsspace (FCO)},%
+firstplural={Fuel Cycle Options\acrpluralsuffix \glsspace (FCO\acrpluralsuffix )},%
+text={FCO},%
+plural={FCO\acrpluralsuffix },%
+description={Fuel Cycle Options},%
+descriptionplural={Fuel Cycle Options\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fuel Cycle Options},%
+longplural={Fuel Cycle Optionss},%
+short={FCO},%
+shortplural={FCOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FCT}{}%
+{%
+\gls@defglossaryentry{FCT}%
+{%
+name={FCT},%
+sort={FCT},%
+type={acronym},%
+first={Fuel Cycle Technology\glsspace (FCT)},%
+firstplural={Fuel Cycle Technology\acrpluralsuffix \glsspace (FCT\acrpluralsuffix )},%
+text={FCT},%
+plural={FCT\acrpluralsuffix },%
+description={Fuel Cycle Technology},%
+descriptionplural={Fuel Cycle Technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fuel Cycle Technology},%
+longplural={Fuel Cycle Technologys},%
+short={FCT},%
+shortplural={FCTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FEHM}{}%
+{%
+\gls@defglossaryentry{FEHM}%
+{%
+name={FEHM},%
+sort={FEHM},%
+type={acronym},%
+first={Finite Element Heat and Mass Transfer\glsspace (FEHM)},%
+firstplural={Finite Element Heat and Mass Transfer\acrpluralsuffix \glsspace (FEHM\acrpluralsuffix )},%
+text={FEHM},%
+plural={FEHM\acrpluralsuffix },%
+description={Finite Element Heat and Mass Transfer},%
+descriptionplural={Finite Element Heat and Mass Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Finite Element Heat and Mass Transfer},%
+longplural={Finite Element Heat and Mass Transfers},%
+short={FEHM},%
+shortplural={FEHMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FEPs}{}%
+{%
+\gls@defglossaryentry{FEPs}%
+{%
+name={FEPs},%
+sort={FEPs},%
+type={acronym},%
+first={Features, Events, and Processes\glsspace (FEPs)},%
+firstplural={Features, Events, and Processes\acrpluralsuffix \glsspace (FEPs\acrpluralsuffix )},%
+text={FEPs},%
+plural={FEPs\acrpluralsuffix },%
+description={Features, Events, and Processes},%
+descriptionplural={Features, Events, and Processes\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Features, Events, and Processes},%
+longplural={Features, Events, and Processess},%
+short={FEPs},%
+shortplural={FEPss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FHR}{}%
+{%
+\gls@defglossaryentry{FHR}%
+{%
+name={FHR},%
+sort={FHR},%
+type={acronym},%
+first={Fluoride-Salt-Cooled High-Temperature Reactor\glsspace (FHR)},%
+firstplural={Fluoride-Salt-Cooled High-Temperature Reactor\acrpluralsuffix \glsspace (FHR\acrpluralsuffix )},%
+text={FHR},%
+plural={FHR\acrpluralsuffix },%
+description={Fluoride-Salt-Cooled High-Temperature Reactor},%
+descriptionplural={Fluoride-Salt-Cooled High-Temperature Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fluoride-Salt-Cooled High-Temperature Reactor},%
+longplural={Fluoride-Salt-Cooled High-Temperature Reactors},%
+short={FHR},%
+shortplural={FHRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FLiBe}{}%
+{%
+\gls@defglossaryentry{FLiBe}%
+{%
+name={FLiBe},%
+sort={FLiBe},%
+type={acronym},%
+first={Fluoride-Lithium-Beryllium\glsspace (FLiBe)},%
+firstplural={Fluoride-Lithium-Beryllium\acrpluralsuffix \glsspace (FLiBe\acrpluralsuffix )},%
+text={FLiBe},%
+plural={FLiBe\acrpluralsuffix },%
+description={Fluoride-Lithium-Beryllium},%
+descriptionplural={Fluoride-Lithium-Beryllium\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fluoride-Lithium-Beryllium},%
+longplural={Fluoride-Lithium-Berylliums},%
+short={FLiBe},%
+shortplural={FLiBes},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GDSE}{}%
+{%
+\gls@defglossaryentry{GDSE}%
+{%
+name={GDSE},%
+sort={GDSE},%
+type={acronym},%
+first={Generic Disposal System Environment\glsspace (GDSE)},%
+firstplural={Generic Disposal System Environment\acrpluralsuffix \glsspace (GDSE\acrpluralsuffix )},%
+text={GDSE},%
+plural={GDSE\acrpluralsuffix },%
+description={Generic Disposal System Environment},%
+descriptionplural={Generic Disposal System Environment\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Generic Disposal System Environment},%
+longplural={Generic Disposal System Environments},%
+short={GDSE},%
+shortplural={GDSEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GDSM}{}%
+{%
+\gls@defglossaryentry{GDSM}%
+{%
+name={GDSM},%
+sort={GDSM},%
+type={acronym},%
+first={Generic Disposal System Model\glsspace (GDSM)},%
+firstplural={Generic Disposal System Model\acrpluralsuffix \glsspace (GDSM\acrpluralsuffix )},%
+text={GDSM},%
+plural={GDSM\acrpluralsuffix },%
+description={Generic Disposal System Model},%
+descriptionplural={Generic Disposal System Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Generic Disposal System Model},%
+longplural={Generic Disposal System Models},%
+short={GDSM},%
+shortplural={GDSMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GENIUSv1}{}%
+{%
+\gls@defglossaryentry{GENIUSv1}%
+{%
+name={GENIUSv1},%
+sort={GENIUSv1},%
+type={acronym},%
+first={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 1\glsspace (GENIUSv1)},%
+firstplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 1\acrpluralsuffix \glsspace (GENIUSv1\acrpluralsuffix )},%
+text={GENIUSv1},%
+plural={GENIUSv1\acrpluralsuffix },%
+description={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 1},%
+descriptionplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 1\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 1},%
+longplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 1s},%
+short={GENIUSv1},%
+shortplural={GENIUSv1s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GENIUSv2}{}%
+{%
+\gls@defglossaryentry{GENIUSv2}%
+{%
+name={GENIUSv2},%
+sort={GENIUSv2},%
+type={acronym},%
+first={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 2\glsspace (GENIUSv2)},%
+firstplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 2\acrpluralsuffix \glsspace (GENIUSv2\acrpluralsuffix )},%
+text={GENIUSv2},%
+plural={GENIUSv2\acrpluralsuffix },%
+description={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 2},%
+descriptionplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 2\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 2},%
+longplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios, Version 2s},%
+short={GENIUSv2},%
+shortplural={GENIUSv2s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GENIUS}{}%
+{%
+\gls@defglossaryentry{GENIUS}%
+{%
+name={GENIUS},%
+sort={GENIUS},%
+type={acronym},%
+first={Global Evaluation of Nuclear Infrastructure Utilization Scenarios\glsspace (GENIUS)},%
+firstplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios\acrpluralsuffix \glsspace (GENIUS\acrpluralsuffix )},%
+text={GENIUS},%
+plural={GENIUS\acrpluralsuffix },%
+description={Global Evaluation of Nuclear Infrastructure Utilization Scenarios},%
+descriptionplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarios\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global Evaluation of Nuclear Infrastructure Utilization Scenarios},%
+longplural={Global Evaluation of Nuclear Infrastructure Utilization Scenarioss},%
+short={GENIUS},%
+shortplural={GENIUSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GPAM}{}%
+{%
+\gls@defglossaryentry{GPAM}%
+{%
+name={GPAM},%
+sort={GPAM},%
+type={acronym},%
+first={Generic Performance Assessment Model\glsspace (GPAM)},%
+firstplural={Generic Performance Assessment Model\acrpluralsuffix \glsspace (GPAM\acrpluralsuffix )},%
+text={GPAM},%
+plural={GPAM\acrpluralsuffix },%
+description={Generic Performance Assessment Model},%
+descriptionplural={Generic Performance Assessment Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Generic Performance Assessment Model},%
+longplural={Generic Performance Assessment Models},%
+short={GPAM},%
+shortplural={GPAMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GRSAC}{}%
+{%
+\gls@defglossaryentry{GRSAC}%
+{%
+name={GRSAC},%
+sort={GRSAC},%
+type={acronym},%
+first={Graphite Reactor Severe Accident Code\glsspace (GRSAC)},%
+firstplural={Graphite Reactor Severe Accident Code\acrpluralsuffix \glsspace (GRSAC\acrpluralsuffix )},%
+text={GRSAC},%
+plural={GRSAC\acrpluralsuffix },%
+description={Graphite Reactor Severe Accident Code},%
+descriptionplural={Graphite Reactor Severe Accident Code\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Graphite Reactor Severe Accident Code},%
+longplural={Graphite Reactor Severe Accident Codes},%
+short={GRSAC},%
+shortplural={GRSACs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GUI}{}%
+{%
+\gls@defglossaryentry{GUI}%
+{%
+name={GUI},%
+sort={GUI},%
+type={acronym},%
+first={graphical user interface\glsspace (GUI)},%
+firstplural={graphical user interface\acrpluralsuffix \glsspace (GUI\acrpluralsuffix )},%
+text={GUI},%
+plural={GUI\acrpluralsuffix },%
+description={graphical user interface},%
+descriptionplural={graphical user interface\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={graphical user interface},%
+longplural={graphical user interfaces},%
+short={GUI},%
+shortplural={GUIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HLW}{}%
+{%
+\gls@defglossaryentry{HLW}%
+{%
+name={HLW},%
+sort={HLW},%
+type={acronym},%
+first={high level waste\glsspace (HLW)},%
+firstplural={high level waste\acrpluralsuffix \glsspace (HLW\acrpluralsuffix )},%
+text={HLW},%
+plural={HLW\acrpluralsuffix },%
+description={high level waste},%
+descriptionplural={high level waste\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={high level waste},%
+longplural={high level wastes},%
+short={HLW},%
+shortplural={HLWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HPC}{}%
+{%
+\gls@defglossaryentry{HPC}%
+{%
+name={HPC},%
+sort={HPC},%
+type={acronym},%
+first={high-performance computing\glsspace (HPC)},%
+firstplural={high-performance computing\acrpluralsuffix \glsspace (HPC\acrpluralsuffix )},%
+text={HPC},%
+plural={HPC\acrpluralsuffix },%
+description={high-performance computing},%
+descriptionplural={high-performance computing\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={high-performance computing},%
+longplural={high-performance computings},%
+short={HPC},%
+shortplural={HPCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HTC}{}%
+{%
+\gls@defglossaryentry{HTC}%
+{%
+name={HTC},%
+sort={HTC},%
+type={acronym},%
+first={high-throughput computing\glsspace (HTC)},%
+firstplural={high-throughput computing\acrpluralsuffix \glsspace (HTC\acrpluralsuffix )},%
+text={HTC},%
+plural={HTC\acrpluralsuffix },%
+description={high-throughput computing},%
+descriptionplural={high-throughput computing\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={high-throughput computing},%
+longplural={high-throughput computings},%
+short={HTC},%
+shortplural={HTCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HTGR}{}%
+{%
+\gls@defglossaryentry{HTGR}%
+{%
+name={HTGR},%
+sort={HTGR},%
+type={acronym},%
+first={High Temperature Gas-Cooled Reactor\glsspace (HTGR)},%
+firstplural={High Temperature Gas-Cooled Reactor\acrpluralsuffix \glsspace (HTGR\acrpluralsuffix )},%
+text={HTGR},%
+plural={HTGR\acrpluralsuffix },%
+description={High Temperature Gas-Cooled Reactor},%
+descriptionplural={High Temperature Gas-Cooled Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={High Temperature Gas-Cooled Reactor},%
+longplural={High Temperature Gas-Cooled Reactors},%
+short={HTGR},%
+shortplural={HTGRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{IAEA}{}%
+{%
+\gls@defglossaryentry{IAEA}%
+{%
+name={IAEA},%
+sort={IAEA},%
+type={acronym},%
+first={International Atomic Energy Agency\glsspace (IAEA)},%
+firstplural={International Atomic Energy Agency\acrpluralsuffix \glsspace (IAEA\acrpluralsuffix )},%
+text={IAEA},%
+plural={IAEA\acrpluralsuffix },%
+description={International Atomic Energy Agency},%
+descriptionplural={International Atomic Energy Agency\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Atomic Energy Agency},%
+longplural={International Atomic Energy Agencys},%
+short={IAEA},%
+shortplural={IAEAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{INL}{}%
+{%
+\gls@defglossaryentry{INL}%
+{%
+name={INL},%
+sort={INL},%
+type={acronym},%
+first={Idaho National Laboratory\glsspace (INL)},%
+firstplural={Idaho National Laboratory\acrpluralsuffix \glsspace (INL\acrpluralsuffix )},%
+text={INL},%
+plural={INL\acrpluralsuffix },%
+description={Idaho National Laboratory},%
+descriptionplural={Idaho National Laboratory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Idaho National Laboratory},%
+longplural={Idaho National Laboratorys},%
+short={INL},%
+shortplural={INLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{IPRR1}{}%
+{%
+\gls@defglossaryentry{IPRR1}%
+{%
+name={IRP-R1},%
+sort={IRP-R1},%
+type={acronym},%
+first={Instituto de Pesquisas Radioativas Reator 1\glsspace (IRP-R1)},%
+firstplural={Instituto de Pesquisas Radioativas Reator 1\acrpluralsuffix \glsspace (IRP-R1\acrpluralsuffix )},%
+text={IRP-R1},%
+plural={IRP-R1\acrpluralsuffix },%
+description={Instituto de Pesquisas Radioativas Reator 1},%
+descriptionplural={Instituto de Pesquisas Radioativas Reator 1\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Instituto de Pesquisas Radioativas Reator 1},%
+longplural={Instituto de Pesquisas Radioativas Reator 1s},%
+short={IRP-R1},%
+shortplural={IRP-R1s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{IRP}{}%
+{%
+\gls@defglossaryentry{IRP}%
+{%
+name={IRP},%
+sort={IRP},%
+type={acronym},%
+first={Integrated Research Project\glsspace (IRP)},%
+firstplural={Integrated Research Project\acrpluralsuffix \glsspace (IRP\acrpluralsuffix )},%
+text={IRP},%
+plural={IRP\acrpluralsuffix },%
+description={Integrated Research Project},%
+descriptionplural={Integrated Research Project\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Integrated Research Project},%
+longplural={Integrated Research Projects},%
+short={IRP},%
+shortplural={IRPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ISFSI}{}%
+{%
+\gls@defglossaryentry{ISFSI}%
+{%
+name={ISFSI},%
+sort={ISFSI},%
+type={acronym},%
+first={Independent Spent Fuel Storage Installation\glsspace (ISFSI)},%
+firstplural={Independent Spent Fuel Storage Installation\acrpluralsuffix \glsspace (ISFSI\acrpluralsuffix )},%
+text={ISFSI},%
+plural={ISFSI\acrpluralsuffix },%
+description={Independent Spent Fuel Storage Installation},%
+descriptionplural={Independent Spent Fuel Storage Installation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Independent Spent Fuel Storage Installation},%
+longplural={Independent Spent Fuel Storage Installations},%
+short={ISFSI},%
+shortplural={ISFSIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ISRG}{}%
+{%
+\gls@defglossaryentry{ISRG}%
+{%
+name={ISRG},%
+sort={ISRG},%
+type={acronym},%
+first={Independent Student Research Group\glsspace (ISRG)},%
+firstplural={Independent Student Research Group\acrpluralsuffix \glsspace (ISRG\acrpluralsuffix )},%
+text={ISRG},%
+plural={ISRG\acrpluralsuffix },%
+description={Independent Student Research Group},%
+descriptionplural={Independent Student Research Group\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Independent Student Research Group},%
+longplural={Independent Student Research Groups},%
+short={ISRG},%
+shortplural={ISRGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{JFNK}{}%
+{%
+\gls@defglossaryentry{JFNK}%
+{%
+name={JFNK},%
+sort={JFNK},%
+type={acronym},%
+first={Jacobian-Free Newton Krylov\glsspace (JFNK)},%
+firstplural={Jacobian-Free Newton Krylov\acrpluralsuffix \glsspace (JFNK\acrpluralsuffix )},%
+text={JFNK},%
+plural={JFNK\acrpluralsuffix },%
+description={Jacobian-Free Newton Krylov},%
+descriptionplural={Jacobian-Free Newton Krylov\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Jacobian-Free Newton Krylov},%
+longplural={Jacobian-Free Newton Krylovs},%
+short={JFNK},%
+shortplural={JFNKs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LANL}{}%
+{%
+\gls@defglossaryentry{LANL}%
+{%
+name={LANL},%
+sort={LANL},%
+type={acronym},%
+first={Los Alamos National Laboratory\glsspace (LANL)},%
+firstplural={Los Alamos National Laboratory\acrpluralsuffix \glsspace (LANL\acrpluralsuffix )},%
+text={LANL},%
+plural={LANL\acrpluralsuffix },%
+description={Los Alamos National Laboratory},%
+descriptionplural={Los Alamos National Laboratory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Los Alamos National Laboratory},%
+longplural={Los Alamos National Laboratorys},%
+short={LANL},%
+shortplural={LANLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LBNL}{}%
+{%
+\gls@defglossaryentry{LBNL}%
+{%
+name={LBNL},%
+sort={LBNL},%
+type={acronym},%
+first={Lawrence Berkeley National Laboratory\glsspace (LBNL)},%
+firstplural={Lawrence Berkeley National Laboratory\acrpluralsuffix \glsspace (LBNL\acrpluralsuffix )},%
+text={LBNL},%
+plural={LBNL\acrpluralsuffix },%
+description={Lawrence Berkeley National Laboratory},%
+descriptionplural={Lawrence Berkeley National Laboratory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Lawrence Berkeley National Laboratory},%
+longplural={Lawrence Berkeley National Laboratorys},%
+short={LBNL},%
+shortplural={LBNLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LCOE}{}%
+{%
+\gls@defglossaryentry{LCOE}%
+{%
+name={LCOE},%
+sort={LCOE},%
+type={acronym},%
+first={levelized cost of electricity\glsspace (LCOE)},%
+firstplural={levelized cost of electricity\acrpluralsuffix \glsspace (LCOE\acrpluralsuffix )},%
+text={LCOE},%
+plural={LCOE\acrpluralsuffix },%
+description={levelized cost of electricity},%
+descriptionplural={levelized cost of electricity\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={levelized cost of electricity},%
+longplural={levelized cost of electricitys},%
+short={LCOE},%
+shortplural={LCOEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LDRD}{}%
+{%
+\gls@defglossaryentry{LDRD}%
+{%
+name={LDRD},%
+sort={LDRD},%
+type={acronym},%
+first={laboratory directed research and development\glsspace (LDRD)},%
+firstplural={laboratory directed research and development\acrpluralsuffix \glsspace (LDRD\acrpluralsuffix )},%
+text={LDRD},%
+plural={LDRD\acrpluralsuffix },%
+description={laboratory directed research and development},%
+descriptionplural={laboratory directed research and development\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={laboratory directed research and development},%
+longplural={laboratory directed research and developments},%
+short={LDRD},%
+shortplural={LDRDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LFR}{}%
+{%
+\gls@defglossaryentry{LFR}%
+{%
+name={LFR},%
+sort={LFR},%
+type={acronym},%
+first={Lead-Cooled Fast Reactor\glsspace (LFR)},%
+firstplural={Lead-Cooled Fast Reactor\acrpluralsuffix \glsspace (LFR\acrpluralsuffix )},%
+text={LFR},%
+plural={LFR\acrpluralsuffix },%
+description={Lead-Cooled Fast Reactor},%
+descriptionplural={Lead-Cooled Fast Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Lead-Cooled Fast Reactor},%
+longplural={Lead-Cooled Fast Reactors},%
+short={LFR},%
+shortplural={LFRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LLNL}{}%
+{%
+\gls@defglossaryentry{LLNL}%
+{%
+name={LLNL},%
+sort={LLNL},%
+type={acronym},%
+first={Lawrence Livermore National Laboratory\glsspace (LLNL)},%
+firstplural={Lawrence Livermore National Laboratory\acrpluralsuffix \glsspace (LLNL\acrpluralsuffix )},%
+text={LLNL},%
+plural={LLNL\acrpluralsuffix },%
+description={Lawrence Livermore National Laboratory},%
+descriptionplural={Lawrence Livermore National Laboratory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Lawrence Livermore National Laboratory},%
+longplural={Lawrence Livermore National Laboratorys},%
+short={LLNL},%
+shortplural={LLNLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LOFC}{}%
+{%
+\gls@defglossaryentry{LOFC}%
+{%
+name={LOFC},%
+sort={LOFC},%
+type={acronym},%
+first={Loss of Forced Cooling\glsspace (LOFC)},%
+firstplural={Loss of Forced Cooling\acrpluralsuffix \glsspace (LOFC\acrpluralsuffix )},%
+text={LOFC},%
+plural={LOFC\acrpluralsuffix },%
+description={Loss of Forced Cooling},%
+descriptionplural={Loss of Forced Cooling\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Loss of Forced Cooling},%
+longplural={Loss of Forced Coolings},%
+short={LOFC},%
+shortplural={LOFCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LOHS}{}%
+{%
+\gls@defglossaryentry{LOHS}%
+{%
+name={LOHS},%
+sort={LOHS},%
+type={acronym},%
+first={Loss of Heat Sink\glsspace (LOHS)},%
+firstplural={Loss of Heat Sink\acrpluralsuffix \glsspace (LOHS\acrpluralsuffix )},%
+text={LOHS},%
+plural={LOHS\acrpluralsuffix },%
+description={Loss of Heat Sink},%
+descriptionplural={Loss of Heat Sink\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Loss of Heat Sink},%
+longplural={Loss of Heat Sinks},%
+short={LOHS},%
+shortplural={LOHSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LOLA}{}%
+{%
+\gls@defglossaryentry{LOLA}%
+{%
+name={LOLA},%
+sort={LOLA},%
+type={acronym},%
+first={Loss of Large Area\glsspace (LOLA)},%
+firstplural={Loss of Large Area\acrpluralsuffix \glsspace (LOLA\acrpluralsuffix )},%
+text={LOLA},%
+plural={LOLA\acrpluralsuffix },%
+description={Loss of Large Area},%
+descriptionplural={Loss of Large Area\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Loss of Large Area},%
+longplural={Loss of Large Areas},%
+short={LOLA},%
+shortplural={LOLAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LP}{}%
+{%
+\gls@defglossaryentry{LP}%
+{%
+name={LP},%
+sort={LP},%
+type={acronym},%
+first={linear program\glsspace (LP)},%
+firstplural={linear program\acrpluralsuffix \glsspace (LP\acrpluralsuffix )},%
+text={LP},%
+plural={LP\acrpluralsuffix },%
+description={linear program},%
+descriptionplural={linear program\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={linear program},%
+longplural={linear programs},%
+short={LP},%
+shortplural={LPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MA}{}%
+{%
+\gls@defglossaryentry{MA}%
+{%
+name={MA},%
+sort={MA},%
+type={acronym},%
+first={minor actinide\glsspace (MA)},%
+firstplural={minor actinide\acrpluralsuffix \glsspace (MA\acrpluralsuffix )},%
+text={MA},%
+plural={MA\acrpluralsuffix },%
+description={minor actinide},%
+descriptionplural={minor actinide\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={minor actinide},%
+longplural={minor actinides},%
+short={MA},%
+shortplural={MAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MCNP}{}%
+{%
+\gls@defglossaryentry{MCNP}%
+{%
+name={MCNP},%
+sort={MCNP},%
+type={acronym},%
+first={Monte Carlo N-Particle code\glsspace (MCNP)},%
+firstplural={Monte Carlo N-Particle code\acrpluralsuffix \glsspace (MCNP\acrpluralsuffix )},%
+text={MCNP},%
+plural={MCNP\acrpluralsuffix },%
+description={Monte Carlo N-Particle code},%
+descriptionplural={Monte Carlo N-Particle code\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Monte Carlo N-Particle code},%
+longplural={Monte Carlo N-Particle codes},%
+short={MCNP},%
+shortplural={MCNPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MILP}{}%
+{%
+\gls@defglossaryentry{MILP}%
+{%
+name={MILP},%
+sort={MILP},%
+type={acronym},%
+first={mixed-integer linear program\glsspace (MILP)},%
+firstplural={mixed-integer linear program\acrpluralsuffix \glsspace (MILP\acrpluralsuffix )},%
+text={MILP},%
+plural={MILP\acrpluralsuffix },%
+description={mixed-integer linear program},%
+descriptionplural={mixed-integer linear program\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={mixed-integer linear program},%
+longplural={mixed-integer linear programs},%
+short={MILP},%
+shortplural={MILPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MIT}{}%
+{%
+\gls@defglossaryentry{MIT}%
+{%
+name={MIT},%
+sort={MIT},%
+type={acronym},%
+first={the Massachusetts Institute of Technology\glsspace (MIT)},%
+firstplural={the Massachusetts Institute of Technology\acrpluralsuffix \glsspace (MIT\acrpluralsuffix )},%
+text={MIT},%
+plural={MIT\acrpluralsuffix },%
+description={the Massachusetts Institute of Technology},%
+descriptionplural={the Massachusetts Institute of Technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={the Massachusetts Institute of Technology},%
+longplural={the Massachusetts Institute of Technologys},%
+short={MIT},%
+shortplural={MITs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MOAB}{}%
+{%
+\gls@defglossaryentry{MOAB}%
+{%
+name={MOAB},%
+sort={MOAB},%
+type={acronym},%
+first={Mesh-Oriented datABase\glsspace (MOAB)},%
+firstplural={Mesh-Oriented datABase\acrpluralsuffix \glsspace (MOAB\acrpluralsuffix )},%
+text={MOAB},%
+plural={MOAB\acrpluralsuffix },%
+description={Mesh-Oriented datABase},%
+descriptionplural={Mesh-Oriented datABase\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Mesh-Oriented datABase},%
+longplural={Mesh-Oriented datABases},%
+short={MOAB},%
+shortplural={MOABs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MOOSE}{}%
+{%
+\gls@defglossaryentry{MOOSE}%
+{%
+name={MOOSE},%
+sort={MOOSE},%
+type={acronym},%
+first={Multiphysics Object-Oriented Simulation Environment\glsspace (MOOSE)},%
+firstplural={Multiphysics Object-Oriented Simulation Environment\acrpluralsuffix \glsspace (MOOSE\acrpluralsuffix )},%
+text={MOOSE},%
+plural={MOOSE\acrpluralsuffix },%
+description={Multiphysics Object-Oriented Simulation Environment},%
+descriptionplural={Multiphysics Object-Oriented Simulation Environment\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Multiphysics Object-Oriented Simulation Environment},%
+longplural={Multiphysics Object-Oriented Simulation Environments},%
+short={MOOSE},%
+shortplural={MOOSEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MOX}{}%
+{%
+\gls@defglossaryentry{MOX}%
+{%
+name={MOX},%
+sort={MOX},%
+type={acronym},%
+first={mixed oxide\glsspace (MOX)},%
+firstplural={mixed oxide\acrpluralsuffix \glsspace (MOX\acrpluralsuffix )},%
+text={MOX},%
+plural={MOX\acrpluralsuffix },%
+description={mixed oxide},%
+descriptionplural={mixed oxide\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={mixed oxide},%
+longplural={mixed oxides},%
+short={MOX},%
+shortplural={MOXs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MSR}{}%
+{%
+\gls@defglossaryentry{MSR}%
+{%
+name={MSR},%
+sort={MSR},%
+type={acronym},%
+first={Molten Salt Reactor\glsspace (MSR)},%
+firstplural={Molten Salt Reactor\acrpluralsuffix \glsspace (MSR\acrpluralsuffix )},%
+text={MSR},%
+plural={MSR\acrpluralsuffix },%
+description={Molten Salt Reactor},%
+descriptionplural={Molten Salt Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Molten Salt Reactor},%
+longplural={Molten Salt Reactors},%
+short={MSR},%
+shortplural={MSRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NAGRA}{}%
+{%
+\gls@defglossaryentry{NAGRA}%
+{%
+name={NAGRA},%
+sort={NAGRA},%
+type={acronym},%
+first={National Cooperative for the Disposal of Radioactive Waste\glsspace (NAGRA)},%
+firstplural={National Cooperative for the Disposal of Radioactive Waste\acrpluralsuffix \glsspace (NAGRA\acrpluralsuffix )},%
+text={NAGRA},%
+plural={NAGRA\acrpluralsuffix },%
+description={National Cooperative for the Disposal of Radioactive Waste},%
+descriptionplural={National Cooperative for the Disposal of Radioactive Waste\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={National Cooperative for the Disposal of Radioactive Waste},%
+longplural={National Cooperative for the Disposal of Radioactive Wastes},%
+short={NAGRA},%
+shortplural={NAGRAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NEAMS}{}%
+{%
+\gls@defglossaryentry{NEAMS}%
+{%
+name={NEAMS},%
+sort={NEAMS},%
+type={acronym},%
+first={Nuclear Engineering Advanced Modeling and Simulation\glsspace (NEAMS)},%
+firstplural={Nuclear Engineering Advanced Modeling and Simulation\acrpluralsuffix \glsspace (NEAMS\acrpluralsuffix )},%
+text={NEAMS},%
+plural={NEAMS\acrpluralsuffix },%
+description={Nuclear Engineering Advanced Modeling and Simulation},%
+descriptionplural={Nuclear Engineering Advanced Modeling and Simulation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Engineering Advanced Modeling and Simulation},%
+longplural={Nuclear Engineering Advanced Modeling and Simulations},%
+short={NEAMS},%
+shortplural={NEAMSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NEUP}{}%
+{%
+\gls@defglossaryentry{NEUP}%
+{%
+name={NEUP},%
+sort={NEUP},%
+type={acronym},%
+first={Nuclear Energy University Programs\glsspace (NEUP)},%
+firstplural={Nuclear Energy University Programs\acrpluralsuffix \glsspace (NEUP\acrpluralsuffix )},%
+text={NEUP},%
+plural={NEUP\acrpluralsuffix },%
+description={Nuclear Energy University Programs},%
+descriptionplural={Nuclear Energy University Programs\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Energy University Programs},%
+longplural={Nuclear Energy University Programss},%
+short={NEUP},%
+shortplural={NEUPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NFCSim}{}%
+{%
+\gls@defglossaryentry{NFCSim}%
+{%
+name={NFCSim},%
+sort={NFCSim},%
+type={acronym},%
+first={Nuclear Fuel Cycle Simulator\glsspace (NFCSim)},%
+firstplural={Nuclear Fuel Cycle Simulator\acrpluralsuffix \glsspace (NFCSim\acrpluralsuffix )},%
+text={NFCSim},%
+plural={NFCSim\acrpluralsuffix },%
+description={Nuclear Fuel Cycle Simulator},%
+descriptionplural={Nuclear Fuel Cycle Simulator\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Fuel Cycle Simulator},%
+longplural={Nuclear Fuel Cycle Simulators},%
+short={NFCSim},%
+shortplural={NFCSims},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NGNP}{}%
+{%
+\gls@defglossaryentry{NGNP}%
+{%
+name={NGNP},%
+sort={NGNP},%
+type={acronym},%
+first={Next Generation Nuclear Plant\glsspace (NGNP)},%
+firstplural={Next Generation Nuclear Plant\acrpluralsuffix \glsspace (NGNP\acrpluralsuffix )},%
+text={NGNP},%
+plural={NGNP\acrpluralsuffix },%
+description={Next Generation Nuclear Plant},%
+descriptionplural={Next Generation Nuclear Plant\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Next Generation Nuclear Plant},%
+longplural={Next Generation Nuclear Plants},%
+short={NGNP},%
+shortplural={NGNPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NNSA}{}%
+{%
+\gls@defglossaryentry{NNSA}%
+{%
+name={NNSA},%
+sort={NNSA},%
+type={acronym},%
+first={National Nuclear Security Administration\glsspace (NNSA)},%
+firstplural={National Nuclear Security Administration\acrpluralsuffix \glsspace (NNSA\acrpluralsuffix )},%
+text={NNSA},%
+plural={NNSA\acrpluralsuffix },%
+description={National Nuclear Security Administration},%
+descriptionplural={National Nuclear Security Administration\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={National Nuclear Security Administration},%
+longplural={National Nuclear Security Administrations},%
+short={NNSA},%
+shortplural={NNSAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NPRE}{}%
+{%
+\gls@defglossaryentry{NPRE}%
+{%
+name={NPRE},%
+sort={NPRE},%
+type={acronym},%
+first={Department of Nuclear, Plasma, and Radiological Engineering\glsspace (NPRE)},%
+firstplural={Department of Nuclear, Plasma, and Radiological Engineering\acrpluralsuffix \glsspace (NPRE\acrpluralsuffix )},%
+text={NPRE},%
+plural={NPRE\acrpluralsuffix },%
+description={Department of Nuclear, Plasma, and Radiological Engineering},%
+descriptionplural={Department of Nuclear, Plasma, and Radiological Engineering\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Department of Nuclear, Plasma, and Radiological Engineering},%
+longplural={Department of Nuclear, Plasma, and Radiological Engineerings},%
+short={NPRE},%
+shortplural={NPREs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NQA1}{}%
+{%
+\gls@defglossaryentry{NQA1}%
+{%
+name={NQA-1},%
+sort={NQA-1},%
+type={acronym},%
+first={Nuclear Quality Assurance - 1\glsspace (NQA-1)},%
+firstplural={Nuclear Quality Assurance - 1\acrpluralsuffix \glsspace (NQA-1\acrpluralsuffix )},%
+text={NQA-1},%
+plural={NQA-1\acrpluralsuffix },%
+description={Nuclear Quality Assurance - 1},%
+descriptionplural={Nuclear Quality Assurance - 1\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Quality Assurance - 1},%
+longplural={Nuclear Quality Assurance - 1s},%
+short={NQA-1},%
+shortplural={NQA-1s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NRC}{}%
+{%
+\gls@defglossaryentry{NRC}%
+{%
+name={NRC},%
+sort={NRC},%
+type={acronym},%
+first={Nuclear Regulatory Commission\glsspace (NRC)},%
+firstplural={Nuclear Regulatory Commission\acrpluralsuffix \glsspace (NRC\acrpluralsuffix )},%
+text={NRC},%
+plural={NRC\acrpluralsuffix },%
+description={Nuclear Regulatory Commission},%
+descriptionplural={Nuclear Regulatory Commission\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Regulatory Commission},%
+longplural={Nuclear Regulatory Commissions},%
+short={NRC},%
+shortplural={NRCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NSF}{}%
+{%
+\gls@defglossaryentry{NSF}%
+{%
+name={NSF},%
+sort={NSF},%
+type={acronym},%
+first={National Science Foundation\glsspace (NSF)},%
+firstplural={National Science Foundation\acrpluralsuffix \glsspace (NSF\acrpluralsuffix )},%
+text={NSF},%
+plural={NSF\acrpluralsuffix },%
+description={National Science Foundation},%
+descriptionplural={National Science Foundation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={National Science Foundation},%
+longplural={National Science Foundations},%
+short={NSF},%
+shortplural={NSFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NSSC}{}%
+{%
+\gls@defglossaryentry{NSSC}%
+{%
+name={NSSC},%
+sort={NSSC},%
+type={acronym},%
+first={Nuclear Science and Security Consortium\glsspace (NSSC)},%
+firstplural={Nuclear Science and Security Consortium\acrpluralsuffix \glsspace (NSSC\acrpluralsuffix )},%
+text={NSSC},%
+plural={NSSC\acrpluralsuffix },%
+description={Nuclear Science and Security Consortium},%
+descriptionplural={Nuclear Science and Security Consortium\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Science and Security Consortium},%
+longplural={Nuclear Science and Security Consortiums},%
+short={NSSC},%
+shortplural={NSSCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NUWASTE}{}%
+{%
+\gls@defglossaryentry{NUWASTE}%
+{%
+name={NUWASTE},%
+sort={NUWASTE},%
+type={acronym},%
+first={Nuclear Waste Assessment System for Technical Evaluation\glsspace (NUWASTE)},%
+firstplural={Nuclear Waste Assessment System for Technical Evaluation\acrpluralsuffix \glsspace (NUWASTE\acrpluralsuffix )},%
+text={NUWASTE},%
+plural={NUWASTE\acrpluralsuffix },%
+description={Nuclear Waste Assessment System for Technical Evaluation},%
+descriptionplural={Nuclear Waste Assessment System for Technical Evaluation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Waste Assessment System for Technical Evaluation},%
+longplural={Nuclear Waste Assessment System for Technical Evaluations},%
+short={NUWASTE},%
+shortplural={NUWASTEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NWTRB}{}%
+{%
+\gls@defglossaryentry{NWTRB}%
+{%
+name={NWTRB},%
+sort={NWTRB},%
+type={acronym},%
+first={Nuclear Waste Technical Review Board\glsspace (NWTRB)},%
+firstplural={Nuclear Waste Technical Review Board\acrpluralsuffix \glsspace (NWTRB\acrpluralsuffix )},%
+text={NWTRB},%
+plural={NWTRB\acrpluralsuffix },%
+description={Nuclear Waste Technical Review Board},%
+descriptionplural={Nuclear Waste Technical Review Board\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Waste Technical Review Board},%
+longplural={Nuclear Waste Technical Review Boards},%
+short={NWTRB},%
+shortplural={NWTRBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{OCRWM}{}%
+{%
+\gls@defglossaryentry{OCRWM}%
+{%
+name={OCRWM},%
+sort={OCRWM},%
+type={acronym},%
+first={Office of Civilian Radioactive Waste Management\glsspace (OCRWM)},%
+firstplural={Office of Civilian Radioactive Waste Management\acrpluralsuffix \glsspace (OCRWM\acrpluralsuffix )},%
+text={OCRWM},%
+plural={OCRWM\acrpluralsuffix },%
+description={Office of Civilian Radioactive Waste Management},%
+descriptionplural={Office of Civilian Radioactive Waste Management\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Office of Civilian Radioactive Waste Management},%
+longplural={Office of Civilian Radioactive Waste Managements},%
+short={OCRWM},%
+shortplural={OCRWMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ORION}{}%
+{%
+\gls@defglossaryentry{ORION}%
+{%
+name={ORION},%
+sort={ORION},%
+type={acronym},%
+first={ORION\glsspace (ORION)},%
+firstplural={ORION\acrpluralsuffix \glsspace (ORION\acrpluralsuffix )},%
+text={ORION},%
+plural={ORION\acrpluralsuffix },%
+description={ORION},%
+descriptionplural={ORION\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={ORION},%
+longplural={ORIONs},%
+short={ORION},%
+shortplural={ORIONs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PARCS}{}%
+{%
+\gls@defglossaryentry{PARCS}%
+{%
+name={PARCS},%
+sort={PARCS},%
+type={acronym},%
+first={Purdue Advanced Reactor Core Simulator\glsspace (PARCS)},%
+firstplural={Purdue Advanced Reactor Core Simulator\acrpluralsuffix \glsspace (PARCS\acrpluralsuffix )},%
+text={PARCS},%
+plural={PARCS\acrpluralsuffix },%
+description={Purdue Advanced Reactor Core Simulator},%
+descriptionplural={Purdue Advanced Reactor Core Simulator\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Purdue Advanced Reactor Core Simulator},%
+longplural={Purdue Advanced Reactor Core Simulators},%
+short={PARCS},%
+shortplural={PARCSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PBAHTR}{}%
+{%
+\gls@defglossaryentry{PBAHTR}%
+{%
+name={PB-AHTR},%
+sort={PB-AHTR},%
+type={acronym},%
+first={Pebble Bed Advanced High Temperature Reactor\glsspace (PB-AHTR)},%
+firstplural={Pebble Bed Advanced High Temperature Reactor\acrpluralsuffix \glsspace (PB-AHTR\acrpluralsuffix )},%
+text={PB-AHTR},%
+plural={PB-AHTR\acrpluralsuffix },%
+description={Pebble Bed Advanced High Temperature Reactor},%
+descriptionplural={Pebble Bed Advanced High Temperature Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Pebble Bed Advanced High Temperature Reactor},%
+longplural={Pebble Bed Advanced High Temperature Reactors},%
+short={PB-AHTR},%
+shortplural={PB-AHTRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PBFHR}{}%
+{%
+\gls@defglossaryentry{PBFHR}%
+{%
+name={PB-FHR},%
+sort={PB-FHR},%
+type={acronym},%
+first={Pebble-Bed Fluoride-Salt-Cooled High-Temperature Reactor\glsspace (PB-FHR)},%
+firstplural={Pebble-Bed Fluoride-Salt-Cooled High-Temperature Reactor\acrpluralsuffix \glsspace (PB-FHR\acrpluralsuffix )},%
+text={PB-FHR},%
+plural={PB-FHR\acrpluralsuffix },%
+description={Pebble-Bed Fluoride-Salt-Cooled High-Temperature Reactor},%
+descriptionplural={Pebble-Bed Fluoride-Salt-Cooled High-Temperature Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Pebble-Bed Fluoride-Salt-Cooled High-Temperature Reactor},%
+longplural={Pebble-Bed Fluoride-Salt-Cooled High-Temperature Reactors},%
+short={PB-FHR},%
+shortplural={PB-FHRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PEI}{}%
+{%
+\gls@defglossaryentry{PEI}%
+{%
+name={PEI},%
+sort={PEI},%
+type={acronym},%
+first={Peak Environmental Impact\glsspace (PEI)},%
+firstplural={Peak Environmental Impact\acrpluralsuffix \glsspace (PEI\acrpluralsuffix )},%
+text={PEI},%
+plural={PEI\acrpluralsuffix },%
+description={Peak Environmental Impact},%
+descriptionplural={Peak Environmental Impact\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Peak Environmental Impact},%
+longplural={Peak Environmental Impacts},%
+short={PEI},%
+shortplural={PEIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PH}{}%
+{%
+\gls@defglossaryentry{PH}%
+{%
+name={PRONGHORN},%
+sort={PRONGHORN},%
+type={acronym},%
+first={PRONGHORN\glsspace (PRONGHORN)},%
+firstplural={PRONGHORN\acrpluralsuffix \glsspace (PRONGHORN\acrpluralsuffix )},%
+text={PRONGHORN},%
+plural={PRONGHORN\acrpluralsuffix },%
+description={PRONGHORN},%
+descriptionplural={PRONGHORN\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={PRONGHORN},%
+longplural={PRONGHORNs},%
+short={PRONGHORN},%
+shortplural={PRONGHORNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PRKE}{}%
+{%
+\gls@defglossaryentry{PRKE}%
+{%
+name={PRKE},%
+sort={PRKE},%
+type={acronym},%
+first={Point Reactor Kinetics Equations\glsspace (PRKE)},%
+firstplural={Point Reactor Kinetics Equations\acrpluralsuffix \glsspace (PRKE\acrpluralsuffix )},%
+text={PRKE},%
+plural={PRKE\acrpluralsuffix },%
+description={Point Reactor Kinetics Equations},%
+descriptionplural={Point Reactor Kinetics Equations\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Point Reactor Kinetics Equations},%
+longplural={Point Reactor Kinetics Equationss},%
+short={PRKE},%
+shortplural={PRKEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PSPG}{}%
+{%
+\gls@defglossaryentry{PSPG}%
+{%
+name={PSPG},%
+sort={PSPG},%
+type={acronym},%
+first={Pressure-Stabilizing/Petrov-Galerkin\glsspace (PSPG)},%
+firstplural={Pressure-Stabilizing/Petrov-Galerkin\acrpluralsuffix \glsspace (PSPG\acrpluralsuffix )},%
+text={PSPG},%
+plural={PSPG\acrpluralsuffix },%
+description={Pressure-Stabilizing/Petrov-Galerkin},%
+descriptionplural={Pressure-Stabilizing/Petrov-Galerkin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Pressure-Stabilizing/Petrov-Galerkin},%
+longplural={Pressure-Stabilizing/Petrov-Galerkins},%
+short={PSPG},%
+shortplural={PSPGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PyNE}{}%
+{%
+\gls@defglossaryentry{PyNE}%
+{%
+name={PyNE},%
+sort={PyNE},%
+type={acronym},%
+first={Python toolkit for Nuclear Engineering\glsspace (PyNE)},%
+firstplural={Python toolkit for Nuclear Engineering\acrpluralsuffix \glsspace (PyNE\acrpluralsuffix )},%
+text={PyNE},%
+plural={PyNE\acrpluralsuffix },%
+description={Python toolkit for Nuclear Engineering},%
+descriptionplural={Python toolkit for Nuclear Engineering\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Python toolkit for Nuclear Engineering},%
+longplural={Python toolkit for Nuclear Engineerings},%
+short={PyNE},%
+shortplural={PyNEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PyRK}{}%
+{%
+\gls@defglossaryentry{PyRK}%
+{%
+name={PyRK},%
+sort={PyRK},%
+type={acronym},%
+first={Python for Reactor Kinetics\glsspace (PyRK)},%
+firstplural={Python for Reactor Kinetics\acrpluralsuffix \glsspace (PyRK\acrpluralsuffix )},%
+text={PyRK},%
+plural={PyRK\acrpluralsuffix },%
+description={Python for Reactor Kinetics},%
+descriptionplural={Python for Reactor Kinetics\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Python for Reactor Kinetics},%
+longplural={Python for Reactor Kineticss},%
+short={PyRK},%
+shortplural={PyRKs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{QA}{}%
+{%
+\gls@defglossaryentry{QA}%
+{%
+name={QA},%
+sort={QA},%
+type={acronym},%
+first={quality assurance\glsspace (QA)},%
+firstplural={quality assurance\acrpluralsuffix \glsspace (QA\acrpluralsuffix )},%
+text={QA},%
+plural={QA\acrpluralsuffix },%
+description={quality assurance},%
+descriptionplural={quality assurance\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={quality assurance},%
+longplural={quality assurances},%
+short={QA},%
+shortplural={QAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RDD}{}%
+{%
+\gls@defglossaryentry{RDD}%
+{%
+name={RD\&D},%
+sort={RD\&D},%
+type={acronym},%
+first={Research Development and Demonstration\glsspace (RD\&D)},%
+firstplural={Research Development and Demonstration\acrpluralsuffix \glsspace (RD\&D\acrpluralsuffix )},%
+text={RD\&D},%
+plural={RD\&D\acrpluralsuffix },%
+description={Research Development and Demonstration},%
+descriptionplural={Research Development and Demonstration\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Research Development and Demonstration},%
+longplural={Research Development and Demonstrations},%
+short={RD\&D},%
+shortplural={RD\&Ds},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RD}{}%
+{%
+\gls@defglossaryentry{RD}%
+{%
+name={R\&D},%
+sort={R\&D},%
+type={acronym},%
+first={Research and Development\glsspace (R\&D)},%
+firstplural={Research and Development\acrpluralsuffix \glsspace (R\&D\acrpluralsuffix )},%
+text={R\&D},%
+plural={R\&D\acrpluralsuffix },%
+description={Research and Development},%
+descriptionplural={Research and Development\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Research and Development},%
+longplural={Research and Developments},%
+short={R\&D},%
+shortplural={R\&Ds},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RELAP}{}%
+{%
+\gls@defglossaryentry{RELAP}%
+{%
+name={RELAP},%
+sort={RELAP},%
+type={acronym},%
+first={Reactor Excursion and Leak Analysis Program\glsspace (RELAP)},%
+firstplural={Reactor Excursion and Leak Analysis Program\acrpluralsuffix \glsspace (RELAP\acrpluralsuffix )},%
+text={RELAP},%
+plural={RELAP\acrpluralsuffix },%
+description={Reactor Excursion and Leak Analysis Program},%
+descriptionplural={Reactor Excursion and Leak Analysis Program\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Reactor Excursion and Leak Analysis Program},%
+longplural={Reactor Excursion and Leak Analysis Programs},%
+short={RELAP},%
+shortplural={RELAPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RIA}{}%
+{%
+\gls@defglossaryentry{RIA}%
+{%
+name={RIA},%
+sort={RIA},%
+type={acronym},%
+first={Reactivity Insertion Accident\glsspace (RIA)},%
+firstplural={Reactivity Insertion Accident\acrpluralsuffix \glsspace (RIA\acrpluralsuffix )},%
+text={RIA},%
+plural={RIA\acrpluralsuffix },%
+description={Reactivity Insertion Accident},%
+descriptionplural={Reactivity Insertion Accident\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Reactivity Insertion Accident},%
+longplural={Reactivity Insertion Accidents},%
+short={RIA},%
+shortplural={RIAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RIF}{}%
+{%
+\gls@defglossaryentry{RIF}%
+{%
+name={RIF},%
+sort={RIF},%
+type={acronym},%
+first={Region-Institution-Facility\glsspace (RIF)},%
+firstplural={Region-Institution-Facility\acrpluralsuffix \glsspace (RIF\acrpluralsuffix )},%
+text={RIF},%
+plural={RIF\acrpluralsuffix },%
+description={Region-Institution-Facility},%
+descriptionplural={Region-Institution-Facility\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Region-Institution-Facility},%
+longplural={Region-Institution-Facilitys},%
+short={RIF},%
+shortplural={RIFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SFR}{}%
+{%
+\gls@defglossaryentry{SFR}%
+{%
+name={SFR},%
+sort={SFR},%
+type={acronym},%
+first={Sodium-Cooled Fast Reactor\glsspace (SFR)},%
+firstplural={Sodium-Cooled Fast Reactor\acrpluralsuffix \glsspace (SFR\acrpluralsuffix )},%
+text={SFR},%
+plural={SFR\acrpluralsuffix },%
+description={Sodium-Cooled Fast Reactor},%
+descriptionplural={Sodium-Cooled Fast Reactor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Sodium-Cooled Fast Reactor},%
+longplural={Sodium-Cooled Fast Reactors},%
+short={SFR},%
+shortplural={SFRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SINDAG}{}%
+{%
+\gls@defglossaryentry{SINDAG}%
+{%
+name={SINDA{\textbackslash }G},%
+sort={SINDA{\textbackslash }G},%
+type={acronym},%
+first={Systems Improved Numerical Differencing Analyzer $\delimiter "026E30F $ Gaski\glsspace (SINDA{\textbackslash }G)},%
+firstplural={Systems Improved Numerical Differencing Analyzer $\backslash $ Gaski\acrpluralsuffix \glsspace (SINDA{\textbackslash }G\acrpluralsuffix )},%
+text={SINDA{\textbackslash }G},%
+plural={SINDA{\textbackslash }G\acrpluralsuffix },%
+description={Systems Improved Numerical Differencing Analyzer $\backslash $ Gaski},%
+descriptionplural={Systems Improved Numerical Differencing Analyzer $\backslash $ Gaski\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Systems Improved Numerical Differencing Analyzer $\delimiter "026E30F $ Gaski},%
+longplural={Systems Improved Numerical Differencing Analyzer $\delimiter "026E30F $ Gaskis},%
+short={SINDA{\textbackslash }G},%
+shortplural={SINDA{\textbackslash }Gs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SKB}{}%
+{%
+\gls@defglossaryentry{SKB}%
+{%
+name={SKB},%
+sort={SKB},%
+type={acronym},%
+first={Svensk K\"{a}rnbr\"{a}nslehantering AB\glsspace (SKB)},%
+firstplural={Svensk K\"{a}rnbr\"{a}nslehantering AB\acrpluralsuffix \glsspace (SKB\acrpluralsuffix )},%
+text={SKB},%
+plural={SKB\acrpluralsuffix },%
+description={Svensk K\"{a}rnbr\"{a}nslehantering AB},%
+descriptionplural={Svensk K\"{a}rnbr\"{a}nslehantering AB\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Svensk K\"{a}rnbr\"{a}nslehantering AB},%
+longplural={Svensk K\"{a}rnbr\"{a}nslehantering ABs},%
+short={SKB},%
+shortplural={SKBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SNF}{}%
+{%
+\gls@defglossaryentry{SNF}%
+{%
+name={SNF},%
+sort={SNF},%
+type={acronym},%
+first={spent nuclear fuel\glsspace (SNF)},%
+firstplural={spent nuclear fuel\acrpluralsuffix \glsspace (SNF\acrpluralsuffix )},%
+text={SNF},%
+plural={SNF\acrpluralsuffix },%
+description={spent nuclear fuel},%
+descriptionplural={spent nuclear fuel\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={spent nuclear fuel},%
+longplural={spent nuclear fuels},%
+short={SNF},%
+shortplural={SNFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SNL}{}%
+{%
+\gls@defglossaryentry{SNL}%
+{%
+name={SNL},%
+sort={SNL},%
+type={acronym},%
+first={Sandia National Laboratory\glsspace (SNL)},%
+firstplural={Sandia National Laboratory\acrpluralsuffix \glsspace (SNL\acrpluralsuffix )},%
+text={SNL},%
+plural={SNL\acrpluralsuffix },%
+description={Sandia National Laboratory},%
+descriptionplural={Sandia National Laboratory\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Sandia National Laboratory},%
+longplural={Sandia National Laboratorys},%
+short={SNL},%
+shortplural={SNLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{STC}{}%
+{%
+\gls@defglossaryentry{STC}%
+{%
+name={STC},%
+sort={STC},%
+type={acronym},%
+first={specific temperature change\glsspace (STC)},%
+firstplural={specific temperature change\acrpluralsuffix \glsspace (STC\acrpluralsuffix )},%
+text={STC},%
+plural={STC\acrpluralsuffix },%
+description={specific temperature change},%
+descriptionplural={specific temperature change\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={specific temperature change},%
+longplural={specific temperature changes},%
+short={STC},%
+shortplural={STCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SUPG}{}%
+{%
+\gls@defglossaryentry{SUPG}%
+{%
+name={SUPG},%
+sort={SUPG},%
+type={acronym},%
+first={Streamline-Upwind/Petrov-Galerkin\glsspace (SUPG)},%
+firstplural={Streamline-Upwind/Petrov-Galerkin\acrpluralsuffix \glsspace (SUPG\acrpluralsuffix )},%
+text={SUPG},%
+plural={SUPG\acrpluralsuffix },%
+description={Streamline-Upwind/Petrov-Galerkin},%
+descriptionplural={Streamline-Upwind/Petrov-Galerkin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Streamline-Upwind/Petrov-Galerkin},%
+longplural={Streamline-Upwind/Petrov-Galerkins},%
+short={SUPG},%
+shortplural={SUPGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SWF}{}%
+{%
+\gls@defglossaryentry{SWF}%
+{%
+name={SWF},%
+sort={SWF},%
+type={acronym},%
+first={Separations and Waste Forms\glsspace (SWF)},%
+firstplural={Separations and Waste Forms\acrpluralsuffix \glsspace (SWF\acrpluralsuffix )},%
+text={SWF},%
+plural={SWF\acrpluralsuffix },%
+description={Separations and Waste Forms},%
+descriptionplural={Separations and Waste Forms\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Separations and Waste Forms},%
+longplural={Separations and Waste Formss},%
+short={SWF},%
+shortplural={SWFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SWU}{}%
+{%
+\gls@defglossaryentry{SWU}%
+{%
+name={SWU},%
+sort={SWU},%
+type={acronym},%
+first={Separative Work Unit\glsspace (SWU)},%
+firstplural={Separative Work Unit\acrpluralsuffix \glsspace (SWU\acrpluralsuffix )},%
+text={SWU},%
+plural={SWU\acrpluralsuffix },%
+description={Separative Work Unit},%
+descriptionplural={Separative Work Unit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Separative Work Unit},%
+longplural={Separative Work Units},%
+short={SWU},%
+shortplural={SWUs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TRIGA}{}%
+{%
+\gls@defglossaryentry{TRIGA}%
+{%
+name={TRIGA},%
+sort={TRIGA},%
+type={acronym},%
+first={Training Research Isotope General Atomic\glsspace (TRIGA)},%
+firstplural={Training Research Isotope General Atomic\acrpluralsuffix \glsspace (TRIGA\acrpluralsuffix )},%
+text={TRIGA},%
+plural={TRIGA\acrpluralsuffix },%
+description={Training Research Isotope General Atomic},%
+descriptionplural={Training Research Isotope General Atomic\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Training Research Isotope General Atomic},%
+longplural={Training Research Isotope General Atomics},%
+short={TRIGA},%
+shortplural={TRIGAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TRISO}{}%
+{%
+\gls@defglossaryentry{TRISO}%
+{%
+name={TRISO},%
+sort={TRISO},%
+type={acronym},%
+first={Tristructural Isotropic\glsspace (TRISO)},%
+firstplural={Tristructural Isotropic\acrpluralsuffix \glsspace (TRISO\acrpluralsuffix )},%
+text={TRISO},%
+plural={TRISO\acrpluralsuffix },%
+description={Tristructural Isotropic},%
+descriptionplural={Tristructural Isotropic\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tristructural Isotropic},%
+longplural={Tristructural Isotropics},%
+short={TRISO},%
+shortplural={TRISOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TSM}{}%
+{%
+\gls@defglossaryentry{TSM}%
+{%
+name={TSM},%
+sort={TSM},%
+type={acronym},%
+first={Total System Model\glsspace (TSM)},%
+firstplural={Total System Model\acrpluralsuffix \glsspace (TSM\acrpluralsuffix )},%
+text={TSM},%
+plural={TSM\acrpluralsuffix },%
+description={Total System Model},%
+descriptionplural={Total System Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Total System Model},%
+longplural={Total System Models},%
+short={TSM},%
+shortplural={TSMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TSPA}{}%
+{%
+\gls@defglossaryentry{TSPA}%
+{%
+name={TSPA},%
+sort={TSPA},%
+type={acronym},%
+first={Total System Performance Assessment for the Yucca Mountain License Application\glsspace (TSPA)},%
+firstplural={Total System Performance Assessment for the Yucca Mountain License Application\acrpluralsuffix \glsspace (TSPA\acrpluralsuffix )},%
+text={TSPA},%
+plural={TSPA\acrpluralsuffix },%
+description={Total System Performance Assessment for the Yucca Mountain License Application},%
+descriptionplural={Total System Performance Assessment for the Yucca Mountain License Application\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Total System Performance Assessment for the Yucca Mountain License Application},%
+longplural={Total System Performance Assessment for the Yucca Mountain License Applications},%
+short={TSPA},%
+shortplural={TSPAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ThOX}{}%
+{%
+\gls@defglossaryentry{ThOX}%
+{%
+name={ThOX},%
+sort={ThOX},%
+type={acronym},%
+first={thorium oxide\glsspace (ThOX)},%
+firstplural={thorium oxide\acrpluralsuffix \glsspace (ThOX\acrpluralsuffix )},%
+text={ThOX},%
+plural={ThOX\acrpluralsuffix },%
+description={thorium oxide},%
+descriptionplural={thorium oxide\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={thorium oxide},%
+longplural={thorium oxides},%
+short={ThOX},%
+shortplural={ThOXs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{UFD}{}%
+{%
+\gls@defglossaryentry{UFD}%
+{%
+name={UFD},%
+sort={UFD},%
+type={acronym},%
+first={Used Fuel Disposition\glsspace (UFD)},%
+firstplural={Used Fuel Disposition\acrpluralsuffix \glsspace (UFD\acrpluralsuffix )},%
+text={UFD},%
+plural={UFD\acrpluralsuffix },%
+description={Used Fuel Disposition},%
+descriptionplural={Used Fuel Disposition\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Used Fuel Disposition},%
+longplural={Used Fuel Dispositions},%
+short={UFD},%
+shortplural={UFDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{UML}{}%
+{%
+\gls@defglossaryentry{UML}%
+{%
+name={UML},%
+sort={UML},%
+type={acronym},%
+first={Unified Modeling Language\glsspace (UML)},%
+firstplural={Unified Modeling Language\acrpluralsuffix \glsspace (UML\acrpluralsuffix )},%
+text={UML},%
+plural={UML\acrpluralsuffix },%
+description={Unified Modeling Language},%
+descriptionplural={Unified Modeling Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Unified Modeling Language},%
+longplural={Unified Modeling Languages},%
+short={UML},%
+shortplural={UMLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{UOX}{}%
+{%
+\gls@defglossaryentry{UOX}%
+{%
+name={UOX},%
+sort={UOX},%
+type={acronym},%
+first={uranium oxide\glsspace (UOX)},%
+firstplural={uranium oxide\acrpluralsuffix \glsspace (UOX\acrpluralsuffix )},%
+text={UOX},%
+plural={UOX\acrpluralsuffix },%
+description={uranium oxide},%
+descriptionplural={uranium oxide\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={uranium oxide},%
+longplural={uranium oxides},%
+short={UOX},%
+shortplural={UOXs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{UQ}{}%
+{%
+\gls@defglossaryentry{UQ}%
+{%
+name={UQ},%
+sort={UQ},%
+type={acronym},%
+first={uncertainty quantification\glsspace (UQ)},%
+firstplural={uncertainty quantification\acrpluralsuffix \glsspace (UQ\acrpluralsuffix )},%
+text={UQ},%
+plural={UQ\acrpluralsuffix },%
+description={uncertainty quantification},%
+descriptionplural={uncertainty quantification\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={uncertainty quantification},%
+longplural={uncertainty quantifications},%
+short={UQ},%
+shortplural={UQs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{US}{}%
+{%
+\gls@defglossaryentry{US}%
+{%
+name={US},%
+sort={US},%
+type={acronym},%
+first={United States\glsspace (US)},%
+firstplural={United States\acrpluralsuffix \glsspace (US\acrpluralsuffix )},%
+text={US},%
+plural={US\acrpluralsuffix },%
+description={United States},%
+descriptionplural={United States\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={United States},%
+longplural={United Statess},%
+short={US},%
+shortplural={USs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{UW}{}%
+{%
+\gls@defglossaryentry{UW}%
+{%
+name={UW},%
+sort={UW},%
+type={acronym},%
+first={University of Wisconsin\glsspace (UW)},%
+firstplural={University of Wisconsin\acrpluralsuffix \glsspace (UW\acrpluralsuffix )},%
+text={UW},%
+plural={UW\acrpluralsuffix },%
+description={University of Wisconsin},%
+descriptionplural={University of Wisconsin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={University of Wisconsin},%
+longplural={University of Wisconsins},%
+short={UW},%
+shortplural={UWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VISION}{}%
+{%
+\gls@defglossaryentry{VISION}%
+{%
+name={VISION},%
+sort={VISION},%
+type={acronym},%
+first={the Verifiable Fuel Cycle Simulation Model\glsspace (VISION)},%
+firstplural={the Verifiable Fuel Cycle Simulation Model\acrpluralsuffix \glsspace (VISION\acrpluralsuffix )},%
+text={VISION},%
+plural={VISION\acrpluralsuffix },%
+description={the Verifiable Fuel Cycle Simulation Model},%
+descriptionplural={the Verifiable Fuel Cycle Simulation Model\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={the Verifiable Fuel Cycle Simulation Model},%
+longplural={the Verifiable Fuel Cycle Simulation Models},%
+short={VISION},%
+shortplural={VISIONs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VV}{}%
+{%
+\gls@defglossaryentry{VV}%
+{%
+name={V\&V},%
+sort={V\&V},%
+type={acronym},%
+first={verification and validation\glsspace (V\&V)},%
+firstplural={verification and validation\acrpluralsuffix \glsspace (V\&V\acrpluralsuffix )},%
+text={V\&V},%
+plural={V\&V\acrpluralsuffix },%
+description={verification and validation},%
+descriptionplural={verification and validation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={verification and validation},%
+longplural={verification and validations},%
+short={V\&V},%
+shortplural={V\&Vs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{WIPP}{}%
+{%
+\gls@defglossaryentry{WIPP}%
+{%
+name={WIPP},%
+sort={WIPP},%
+type={acronym},%
+first={Waste Isolation Pilot Plant\glsspace (WIPP)},%
+firstplural={Waste Isolation Pilot Plant\acrpluralsuffix \glsspace (WIPP\acrpluralsuffix )},%
+text={WIPP},%
+plural={WIPP\acrpluralsuffix },%
+description={Waste Isolation Pilot Plant},%
+descriptionplural={Waste Isolation Pilot Plant\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Waste Isolation Pilot Plant},%
+longplural={Waste Isolation Pilot Plants},%
+short={WIPP},%
+shortplural={WIPPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{YMR}{}%
+{%
+\gls@defglossaryentry{YMR}%
+{%
+name={YMR},%
+sort={YMR},%
+type={acronym},%
+first={Yucca Mountain Repository Site\glsspace (YMR)},%
+firstplural={Yucca Mountain Repository Site\acrpluralsuffix \glsspace (YMR\acrpluralsuffix )},%
+text={YMR},%
+plural={YMR\acrpluralsuffix },%
+description={Yucca Mountain Repository Site},%
+descriptionplural={Yucca Mountain Repository Site\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Yucca Mountain Repository Site},%
+longplural={Yucca Mountain Repository Sites},%
+short={YMR},%
+shortplural={YMRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

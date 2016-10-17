@@ -1,3 +1,86 @@
+\documentclass{anstrans}
+
+% things to consider
+% maybe get rid of the environmentalists? and melt them into 'local' or 'public'
+%clinton has an aquifer underneath..
+% state that repository is done by DOE or exelon?
+%specify who is in charge
+%  ---- generally more precisely describe the proposed case 
+% who what when where why
+% wouldn't 'net cost' include everything from new above-ground facility and 
+% no need for additional land purchase?
+%       what about assessing those criterias only in a social / polical way
+%          and the economic aspects of those are considered in the net cost section?
+% what to write about the base case ( compare it to Yucca Mountain procedure or what?)
+% datadtatdatdadatadta
+
+
+
+%meeting Oct. 11/2016
+
+% be explicit about the metric 
+% have a statement saying and we developed metrics for this
+% combine abstract and body to paper.tex
+% have a main tex that contains all structures.
+% \input{nameoffile}
+% paper about wrting a paper
+% abstract: motivation and results and talk about my contributions
+% introduction: rest to understand the paper (background etc) 
+% ans transactions guidelines
+% methodology : how to reproduce my results
+       %exactly everything to replicate result
+       %to do the distance analysis, I used this equation and this code:
+       
+
+% results and discussion : everything learned
+% cite things!!!! - wikipedia, this data was scraped from public information
+% mention why the weights of staekholders is the way they are.
+% utilities do not have much incentive to do so.
+% cost of treatment licenses
+% 'skilled worker', existence.
+
+
+
+
+
+%%%% packages and definitions (optional)
+\usepackage{graphicx} % allows inclusion of graphics
+\usepackage{graphics}
+\usepackage{booktabs} % nice rules (thick lines) for tables
+\usepackage{microtype} % improves typography for PDF
+
+\newcommand{\SN}{S$_N$}
+\renewcommand{\vec}[1]{\bm{#1}} %vector is bold italic
+\newcommand{\vd}{\bm{\cdot}} % slightly bold vector dot
+\newcommand{\grad}{\vec{\nabla}} % gradient
+\newcommand{\ud}{\mathop{}\!\mathrm{d}} % upright derivative symbol
+
+
+\title{Benefits of Siting a Borehole Repository on Non-Operating Nuclear 
+Facility}
+\author{Jin Whan Bae, William Roy, Kathryn Huff}
+
+\institute{
+Dept. of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign
+\and
+Urbana, IL
+}
+\email{jbae11@illinois.edu}
+
+
+%%%% Acronym support
+
+\usepackage[acronym,toc]{glossaries}
+\include{acros}
+
+	
+\makeglossaries
+
+
+
+
+\begin{document}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Case Definition and Methodology}
 
@@ -7,24 +90,11 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
  In order to minimize transport cost, a central location is preferred. An
   elementary analysis on the transportation of spent fuel is done by
    calculating the total amount of waste multiplied by the distance it has to travel
-    ( in units of MTHM*km) using the Havershine formula. First, the coordinates of
-    each power plant is obtained by scraping public data [wikipedia?]
- 
-     The distance between each storage site 
+    ( in units of MTHM*km). The distance between each storage site 
     (i.e. reactors and \gls{ISFSI}) is calculated by 
-    using the havershine formula on the geographical coordinates of the sites. 
-    \\ \\
- \begin{gather*} 
- \Phi_1,\Phi_2= latitude \, values \, in \, radians\\
- \lambda_1,\lambda_2= longitude \, values \, in \, radians\\
- \Delta\lambda,\Delta\Phi = difference \, between\, two \, values\,  in\,  radians\\
- a=sin^2(\Delta\Phi)+cos(\Phi_1)cos(\Phi_2)sin^2(\frac{\Delta\lambda}{2})\\
- c= 2*atan2(\sqrt{a},\sqrt{1-a} )\\
- d=(6,371km)c
- \end{gather*}
- 
- This distance value is multiplied by the \gls{MTHM} that needs to be transported.
-     The spent fuel inventory data
+    using the havershine formula on the geographical coordinates of the sites.
+%%%%%%maybe put in equation of the havershine formula?    
+     The coordinates and spent fuel inventory data
     is from the GC-859 survey data from the \gls{EIA} %\cite{?????}
     and the \gls{CURIE} website. %\citep{arnold_geological_2012}te{}
      From the list of 74 reactors, several candidates
@@ -49,12 +119,9 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
 
 
 The Clinton Power Plant is chosen as the site for the proposed case due to its
-low $MTHM*km^2$ value and substantially large license area.\cite{NRC_Clinton}
- Considering that only
- $30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
-  power plant allows more than  enough space to site a borehole repository, which
-   avoids possible conflicts with the community from purchasing and utilizing more
-    land. 
+low $MTHM*km^2$ value and substantially large license area. Considering that only
+ $30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton power plant allows more than  enough space to site a borehole repository, which avoids
+  possible conflicts with the community from purchasing and utilizing more land. 
   
   The proposed case requires a great amount of cooperation from the utility that owns
   the Clinton power plant, Exelon Corporation. 
@@ -145,3 +212,9 @@ impact.
 
 The base case requires a new above-ground facility, which not only costs a great
 amount, but also will be considered problematic to the public's eye. 
+
+
+\bibliographystyle{ans}
+\bibliography{bibliography}
+
+\end{document}

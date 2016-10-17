@@ -1,4 +1,35 @@
+\documentclass{anstrans}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Benefits of Siting a Borehole Repository on Non-Operating Nuclear 
+Facility}
+\author{Jin Whan Bae, William Roy, Kathryn Huff}
 
+\institute{
+Dept. of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign
+\and
+Urbana, IL
+}
+
+\email{jbae11@illinois.edu}
+
+%%%% packages and definitions (optional)
+\usepackage{graphicx} % allows inclusion of graphics
+\usepackage{booktabs} % nice rules (thick lines) for tables
+\usepackage{microtype} % improves typography for PDF
+
+\newcommand{\SN}{S$_N$}
+\renewcommand{\vec}[1]{\bm{#1}} %vector is bold italic
+\newcommand{\vd}{\bm{\cdot}} % slightly bold vector dot
+\newcommand{\grad}{\vec{\nabla}} % gradient
+\newcommand{\ud}{\mathop{}\!\mathrm{d}} % upright derivative symbol
+
+%%%% Acronym support
+
+\usepackage[acronym,toc]{glossaries}
+\include{acros}
+\makeglossaries
+
+\begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
 
@@ -67,9 +98,6 @@ borehole repository at a similar location to that of Yucca Mountain.
 Quantification of those stakeholder benefits will be undertaken for two 
 different regions of the US in addition to the base case.  
 
-Unique parameters are quantified using simple calculations from easily accessible
-data. The goal of this paper is to quantify different metrics in numbers in order
-to clarify siting methodology.
 
 \begin{figure}[!h] 
   \centering
@@ -85,3 +113,7 @@ This material is based upon work supported by \gls{ACDIS}. Preliminary work was
 conducted in collaboration with the \gls{ISRG} within the \gls{NPRE}. The 
 authors are accordingly grateful for guidance by Prof. Clifford Singer.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliographystyle{ans}
+\bibliography{bibliography}
+\end{document}
