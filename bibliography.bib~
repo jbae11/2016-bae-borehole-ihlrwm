@@ -1,3 +1,33 @@
+@article{EPRI_1990,
+  title={Fuel Consolidation Demonstration Program: Final Report},
+  author={Waste, Radioactive},
+  year={1990}
+}
+
+
+@article{Ewing_2009,
+  title={Plan D for Spent Nuclear Fuel},
+  author={Ewing, R, C. Singer, P.Wilson, rapporteurs},
+  year={2009},
+  institution={University of Illinois at Urbana Champaign},
+}
+
+
+@article{Loomis_2012,
+  title={The potential economic impact of New Albany gas on the Illinois economy},
+  author={Loomis, David G},
+  journal={Loomis Consulting, December},
+  year={2012}
+}
+
+
+@article{Riddel_2003,
+  title={The Economic impact of the Yucca Mountain nuclear waste repository on the economy of Nevada},
+  author={Riddel, Mary and Boyett, Martin and Schwer, R Keith},
+  year={2003}
+}
+
+
 @TechReport{IAEA_2008,
 author = {},
 title = {Managing the Socioeconomic Impact of the Decommissioning of Nuclear

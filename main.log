@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.22)  16 OCT 2016 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.22)  30 OCT 2016 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,50 +470,50 @@ Package: glossary-tree 2015/07/17 v4.17 (NLCT)
 \glo@main@file=\write4
 \openout4 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 79.
+Package glossaries Info: Writing glossary file main.glo on input line 90.
 \glo@acronym@file=\write5
 \openout5 = `main.acn'.
 
-Package glossaries Info: Writing glossary file main.acn on input line 79.
+Package glossaries Info: Writing glossary file main.acn on input line 90.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 84.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 84.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 95.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 95.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 84.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 84.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 95.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 84.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 84.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 95.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 84.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 84.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 95.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Try loading font information for T1+txr on input line 84.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Try loading font information for T1+txr on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
@@ -617,7 +617,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 84.
+LaTeX Info: Redefining \microtypecontext on input line 95.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -681,12 +681,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Citation `waleed_regional_2015' on page 1 undefined on input lin
 e 62.
 
-<power-reactors-decommissioning.png, id=1, 329.0694pt x 289.7224pt>
-File: power-reactors-decommissioning.png Graphic file (type png)
+<images/power-reactors-decommissioning.png, id=1, 329.0694pt x 289.7224pt>
+File: images/power-reactors-decommissioning.png Graphic file (type png)
 
-<use power-reactors-decommissioning.png>
-Package pdftex.def Info: power-reactors-decommissioning.png used on input line 
-76.
+<use images/power-reactors-decommissioning.png>
+Package pdftex.def Info: images/power-reactors-decommissioning.png used on inpu
+t line 76.
 (pdftex.def)             Requested size: 198.35674pt x 174.63936pt.
 
 
@@ -694,6 +694,11 @@ LaTeX Warning: Citation `nuclear_regulatory_commission_nrc_2015' on page 1 unde
 fined on input line 78.
 
 ) (./body.tex
+
+LaTeX Warning: Citation `arnold_reference_2011' on page 1 undefined on input li
+ne 8.
+
+
 Underfull \vbox (badness 2205) has occurred while \output is active []
 
  [1
@@ -702,81 +707,105 @@ Underfull \vbox (badness 2205) has occurred while \output is active []
 
 \openout3 = `main.ist'.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./power-reactors-decommiss
-ioning.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/power-reactors-de
+commissioning.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
 
-Overfull \hbox (3.25635pt too wide) in paragraph at lines 47--48
+Overfull \hbox (3.25635pt too wide) in paragraph at lines 55--56
  [][] 
  []
 
 
-LaTeX Warning: Citation `NRC_Clinton' on page 2 undefined on input line 52.
+LaTeX Warning: Citation `NRC_Clinton' on page 2 undefined on input line 60.
 
 
-Underfull \vbox (badness 1014) has occurred while \output is active []
+LaTeX Warning: Citation `Ewing_2009' on page 2 undefined on input line 73.
 
 
-Overfull \hbox (22.186pt too wide) in paragraph at lines 92--93
- [][] 
- []
+LaTeX Warning: Citation `Ewing_2009' on page 2 undefined on input line 79.
+
+<images/Stratigraphy-Decatur.jpg, id=15, 221.1462pt x 301.125pt>
+File: images/Stratigraphy-Decatur.jpg Graphic file (type jpg)
+
+<use images/Stratigraphy-Decatur.jpg>
+Package pdftex.def Info: images/Stratigraphy-Decatur.jpg used on input line 110
+.
+(pdftex.def)             Requested size: 198.35674pt x 270.09561pt.
 
 
-LaTeX Warning: Citation `Exelon' on page 2 undefined on input line 101.
-
-
-LaTeX Warning: Citation `IAEA_2008' on page 2 undefined on input line 102.
-
-
-LaTeX Warning: Citation `waleed_regional_2015' on page 2 undefined on input lin
-e 115.
-
-
-LaTeX Warning: Citation `NRC_Clinton' on page 2 undefined on input line 126.
+LaTeX Warning: Citation `McDonald_2012' on page 2 undefined on input line 112.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2])
+ [2 <./images/Stratigraphy-Decatur.jpg>]
+Overfull \hbox (22.186pt too wide) in paragraph at lines 146--147
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `Exelon' on page 3 undefined on input line 155.
+
+
+LaTeX Warning: Citation `IAEA_2008' on page 3 undefined on input line 157.
+
+
+LaTeX Warning: Citation `Riddel_2003' on page 3 undefined on input line 161.
+
+
+LaTeX Warning: Citation `Loomis_2012' on page 3 undefined on input line 167.
+
+
+LaTeX Warning: Citation `Riddel_2003' on page 3 undefined on input line 178.
+
+
+LaTeX Warning: Citation `waleed_regional_2015' on page 3 undefined on input lin
+e 185.
+
+
+LaTeX Warning: Citation `NRC_Clinton' on page 3 undefined on input line 202.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
 No file main.bbl.
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.)
 This document will not have a glossary.
 
-[3
-
-] (./main.aux)
+[3] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 13150 strings out of 494957
- 193900 string characters out of 6180028
- 335091 words of memory out of 5000000
- 16009 multiletter control sequences out of 15000+600000
- 36110 words of font info for 177 fonts, out of 8000000 for 9000
+ 13205 strings out of 494957
+ 194713 string characters out of 6180028
+ 331377 words of memory out of 5000000
+ 16049 multiletter control sequences out of 15000+600000
+ 36635 words of font info for 186 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 46i,11n,39p,1977b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,39p,1977b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 313797 bytes).
+Output written on main.pdf (3 pages, 540525 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 14342 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 14347 words of extra memory for PDF output out of 14400 (max. 10000000)
 
