@@ -12,16 +12,17 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
      a emplacement canister.
 
 \subsection{Proposed Case Methodology and Definition}
- In order to minimize transport cost, a central location is preferred. An
-  elementary analysis on the transportation of spent fuel is done by
-   calculating the total amount of waste multiplied by the distance it has to travel
-    ( in units of MTHM*km) using the Havershine formula. First, the coordinates of
-    each power plant is obtained by scraping public data [wikipedia?]
+ In order to minimize transport cost, a central location is preferred. A metric 
+ for representg the spent fuel transport burden, mass distance, is the product 
+ of the waste volume and the distance it has to travel. This results in a 
+ metric in units of $MTHM\cdot km$. 
  
-     The distance between each storage site 
-    (i.e. reactors and \gls{ISFSI}) is calculated by 
-    using the havershine formula on the geographical coordinates of the sites. 
-    \\ \\
+ This distance analysis was completed using the Havershine formula. First, the 
+ coordinates of each power plant were obtained by scraping public data 
+ \cite{wikipedia}.  The distance between each storage site (i.e. reactors and 
+ \gls{ISFSI}) was then calculated by using the Havershine formula on the 
+ geographical coordinates of both sites. 
+
  \begin{align} 
          \Phi_1,\Phi_2&= \mbox{latitude, radians}\\
          \lambda_1,\lambda_2 &= \mbox{longitude, radians}\\
@@ -33,15 +34,22 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
  \end{align}
 
 
+Finally, this distance value is multiplied by the \gls{MTHM} that needs to be transported.
 
- 
- This distance value is multiplied by the \gls{MTHM} that needs to be transported.
-     The spent fuel inventory data
-    is from the GC-859 survey data from the \gls{EIA} %\cite{?????}
-    and the \gls{CURIE} website. 
-     From the list of 74 reactors, several candidates
-    with the smallest MTHM*Km value is listed below:
-    
+
+\begin{align}
+        b_1 &= m_1d\\
+        B &= \sum_i^N b_i\\
+        \intertext{where}
+        b_1 &= \mbox{spent fuel transport burden from facility 1}\\
+        B &= \mbox{total spent fuel transport burden}\\
+        N &= \mbox{total number of facilities with spent fuel on site.}
+\end{align}
+
+The spent fuel inventory data is from the GC-859 survey data from the \gls{EIA} 
+\cite{eia} and the \gls{CURIE} website.  From the list of 74 reactors, several 
+candidates which minimize $B [MTHM\cdot km]$, spent fuel transportation burden, 
+are listed below:
     
 \begin{table}[h]
 \centering
