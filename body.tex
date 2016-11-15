@@ -22,14 +22,18 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
     (i.e. reactors and \gls{ISFSI}) is calculated by 
     using the havershine formula on the geographical coordinates of the sites. 
     \\ \\
- \begin{gather*} 
- \Phi_1,\Phi_2= latitude \, values \, in \, radians\\
- \lambda_1,\lambda_2= longitude \, values \, in \, radians\\
- \Delta\lambda,\Delta\Phi = difference \, between\, two \, values\,  in\,  radians\\
- a=sin^2(\Delta\Phi)+cos(\Phi_1)cos(\Phi_2)sin^2(\frac{\Delta\lambda}{2})\\
- c= 2*atan2(\sqrt{a},\sqrt{1-a} )\\
- d=(6,371km)c
- \end{gather*}
+ \begin{align} 
+         \Phi_1,\Phi_2&= \mbox{latitude, radians}\\
+         \lambda_1,\lambda_2 &= \mbox{longitude, radians}\\
+         \Delta\lambda &= \left|\lambda_1 - \lambda_2\right|\\
+         \Delta\Phi &= \left|\Phi_1 - \Phi_2\right|\\
+         a&=\sin^2(\Delta\Phi)+\cos(\Phi_1)\cos(\Phi_2)\sin^2{\left(\frac{\Delta\lambda}{2}\right)}\\
+         c &= 2arctan2(\sqrt{a},\sqrt{1-a})\\
+         d &=  (6,371km)c
+ \end{align}
+
+
+
  
  This distance value is multiplied by the \gls{MTHM} that needs to be transported.
      The spent fuel inventory data
@@ -83,7 +87,17 @@ low $MTHM*km^2$ value and substantially large license area.\cite{NRC_Clinton}
 
 
 
-
+\begin{figure}[!h] 
+  \centering
+  \includegraphics[width=0.8\columnwidth]{cbrock.png}	
+  \caption{Location of crystalline basement in the contiguous US at a depth of
+less than 2000 meters.  Included within this classification are exposed
+crystalline (“granitic”) rocks at the surface. Also shown are the distribution
+of Quaternary faulting, volcanism, and seismic hazard (yellow shading = 2\%
+probability of exceeding 0.2 g in 50 years), which indicate areas of recent
+tectonic activity in the US \cite{Perry_2015}.}
+  \label{fig:cbrock}
+\end{figure}
 
   
   \iffalse
