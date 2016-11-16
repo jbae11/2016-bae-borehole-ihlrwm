@@ -12,37 +12,50 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
      a emplacement canister.
 
 \subsection{Proposed Case Methodology and Definition}
- In order to minimize transport cost, a central location is preferred. An
-  elementary analysis on the transportation of spent fuel is done by
-   calculating the total amount of waste multiplied by the distance it has to travel
-    ( in units of MTHM*km) using the Havershine formula. First, the coordinates of
-    each power plant is obtained by scraping public data [wikipedia?]
+ In order to minimize transport cost, a central location is preferred. A metric 
+ for representg the spent fuel transport burden, mass distance, is the product 
+ of the waste volume and the distance it has to travel. This results in a 
+ metric in units of $MTHM\cdot km$. 
  
-     The distance between each storage site 
-    (i.e. reactors and \gls{ISFSI}) is calculated by 
-    using the havershine formula on the geographical coordinates of the sites. 
-    \\ \\
- \begin{gather*} 
- \Phi_1,\Phi_2= latitude \, values \, in \, radians\\
- \lambda_1,\lambda_2= longitude \, values \, in \, radians\\
- \Delta\lambda,\Delta\Phi = difference \, between\, two \, values\,  in\,  radians\\
- a=sin^2(\Delta\Phi)+cos(\Phi_1)cos(\Phi_2)sin^2(\frac{\Delta\lambda}{2})\\
- c= 2*atan2(\sqrt{a},\sqrt{1-a} )\\
- d=(6,371km)c
- \end{gather*}
- 
- This distance value is multiplied by the \gls{MTHM} that needs to be transported.
-     The spent fuel inventory data
-    is from the GC-859 survey data from the \gls{EIA} %\cite{?????}
-    and the \gls{CURIE} website. 
-     From the list of 74 reactors, several candidates
-    with the smallest MTHM*Km value is listed below:
-    
+ This distance analysis was completed using the Haversine formula 
+ \cite{shumaker_astronomical_1984}. First, the 
+ coordinates of each power plant were obtained by scraping public data 
+ \cite{wikipedia}.  The distance between each storage site (i.e. reactors and 
+ \gls{ISFSI}) was then calculated by using the Havershine formula on the 
+ geographical coordinates of both sites. 
+
+ \begin{align} 
+         \Phi_1,\Phi_2&= \mbox{latitude, radians}\\
+         \lambda_1,\lambda_2 &= \mbox{longitude, radians}\\
+         \Delta\lambda &= \left|\lambda_1 - \lambda_2\right|\\
+         \Delta\Phi &= \left|\Phi_1 - \Phi_2\right|\\
+         a&=\sin^2(\Delta\Phi)+\cos(\Phi_1)\cos(\Phi_2)\sin^2{\left(\frac{\Delta\lambda}{2}\right)}\\
+         c &= 2arctan2(\sqrt{a},\sqrt{1-a})\\
+         d &=  (6,371km)c
+ \end{align}
+
+
+Finally, this distance value is multiplied by the \gls{MTHM} that needs to be transported.
+
+
+\begin{align}
+        b_1 &= m_1d\\
+        B &= \sum_i^N b_i\\
+        \intertext{where}
+        b_1 &= \mbox{spent fuel transport burden from facility 1}\\
+        B &= \mbox{total spent fuel transport burden}\\
+        N &= \mbox{total number of facilities with spent fuel on site.}
+\end{align}
+
+The spent fuel inventory data is from the GC-859 survey data from the \gls{EIA} 
+\cite{eia} and the \gls{CURIE} website.  From the list of 74 reactors, several 
+candidates which minimize $B [MTHM\cdot km]$, spent fuel transportation burden, 
+are listed below:
     
 \begin{table}[h]
 \centering
 
-    \caption { Reactors with relatively small MTHM*Km value}
+        \caption { Reactors with relatively small spent fuel transportation burden  $B [MTHM\cdot km]$.}
     \scalebox{0.86}{
 	\begin{tabular}{l|l|l|l}
 	\hline
@@ -57,7 +70,7 @@ This paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh
 
 
 The Clinton Power Plant is chosen as the site for the proposed case due to its
-low $MTHM*km^2$ value and substantially large license area.\cite{NRC_Clinton}
+low $MTHM*km^2$ value and substantially large license area\cite{NRC_Clinton}.
  Considering that only
  $30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
   power plant allows more than  enough space to site a borehole repository, which
@@ -83,7 +96,16 @@ low $MTHM*km^2$ value and substantially large license area.\cite{NRC_Clinton}
 
 
 
-
+\begin{figure}[!h] 
+  \centering
+  \includegraphics[width=0.8\columnwidth]{cbrock.png}	
+        \caption{From \cite{Perry_2015}, a map of areas in the US with 
+        crystalline basement rock at less than 2000 meters depth. Tectonic 
+        activity impacting siting considerations are also mapped:  Quaternary 
+        faulting, volcanism, and seismic hazard (yellow shading = 2\% 
+        probability of exceeding 0.2 g in 50 years).
+  \label{fig:cbrock}
+\end{figure}
 
   
   \iffalse
@@ -152,9 +174,9 @@ Building a spent nuclear fuel repository is no easy task. It is a task that requ
 numerous experts and labourers. Also, operating and maintaining a nuclear power plant
 requires numerous experts and labourers. In case of the proposed case, the Clinton
  Power Station has approximately 700 employees living in nearby counties with an
-additional several hundred contractors during fuel outages.\cite{Exelon}
+additional several hundred contractors during fuel outages\cite{Exelon}.
 The existing skilled workers and local talent for maintenance, transport and catering
-services can be utilized without bringing a whole new group of workers to the area. \cite{IAEA_2008}. 
+services can be utilized without bringing a whole new group of workers to the area \cite{IAEA_2008}. 
 
 The base case does produce more jobs, since it needs additional constructions such
 as the repackaging infrastructure. It is estimated that jobs created during the
