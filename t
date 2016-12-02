@@ -1,0 +1,87 @@
+[1mdiff --git a/bibliography.bib b/bibliography.bib[m
+[1mindex b9d059d..ad4daa4 100644[m
+[1m--- a/bibliography.bib[m
+[1m+++ b/bibliography.bib[m
+[36m@@ -74,7 +74,7 @@[m [mfuture work.},[m
+ 	file = {Borehole_Canister.pdf:/home/huff/.zotero/zotero/m4c2d0jp.default/zotero/storage/86I37XFP/Borehole_Canister.pdf:application/pdf}[m
+ }[m
+ [m
+[31m-@misc{_clinton_????,[m
+[32m+[m[32m@misc{_clinton_exelon,[m
+ 	title = {Clinton {Power} {Station}},[m
+ 	url = {http://www.exeloncorp.com/locations/power-plants/clinton-power-station},[m
+ 	abstract = {Clinton Power Station, one of Exelon's newest nuclear power plants, is located in central Illinois about 6 miles east of Clinton, Illinois in DeWitt County.},[m
+[36m@@ -322,4 +322,4 @@[m [mCommercial Spent Nuclear Fuel Waste Fund.},[m
+ 	month = jan,[m
+ 	year = {2007},[m
+ 	file = {Chapter 1:/home/huff/.zotero/zotero/m4c2d0jp.default/zotero/storage/K23E7SMK/ML070920167.pdf:application/pdf}[m
+[31m-}[m
+\ No newline at end of file[m
+[32m+[m[32m}[m
+[1mdiff --git a/body.tex b/body.tex[m
+[1mindex bb71f94..3202c6a 100644[m
+[1m--- a/body.tex[m
+[1m+++ b/body.tex[m
+[36m@@ -22,14 +22,17 @@[m [mThis paper sets the proposed case to building a 70,000 \gls{MTHM} capacity boreh[m
+     (i.e. reactors and \gls{ISFSI}) is calculated by [m
+     using the havershine formula on the geographical coordinates of the sites. [m
+     \\ \\[m
+[31m- \begin{gather*} [m
+[31m- \Phi_1,\Phi_2= latitude \, values \, in \, radians\\[m
+[31m- \lambda_1,\lambda_2= longitude \, values \, in \, radians\\[m
+[31m- \Delta\lambda,\Delta\Phi = difference \, between\, two \, values\,  in\,  radians\\[m
+[31m- a=sin^2(\Delta\Phi)+cos(\Phi_1)cos(\Phi_2)sin^2(\frac{\Delta\lambda}{2})\\[m
+[31m- c= 2*atan2(\sqrt{a},\sqrt{1-a} )\\[m
+[31m- d=(6,371km)c[m
+[31m- \end{gather*}[m
+[32m+[m[32m \begin{align}[m
+[32m+[m[32m \Phi_1,\Phi_2 &= \mbox{latitude values in radians}\\[m
+[32m+[m[32m \lambda_1,\lambda_2 &= \mbox{longitude values in radians}\\[m
+[32m+[m[32m \Delta\lambda,\Delta\Phi &= \mbox{difference between two values in radians}\\[m
+[32m+[m[32m a &= sin^2(\Delta\Phi)+cos(\Phi_1)cos(\Phi_2)sin^2\left(\frac{\Delta\lambda}{2}\right)\\[m
+[32m+[m[32m c &= 2*atan2\left(\sqrt{a},\sqrt{1-a} \right)\\[m
+[32m+[m[32m d &= (6,371km)*c[m
+[32m+[m[32m \end{align}[m
+[32m+[m[41m [m
+[32m+[m[32m Here, the expression $atan(Y,X)$ returns the fourth quadrant inverse tangent of[m
+[32m+[m[32m Y and X.[m[41m [m
+  [m
+  This distance value is multiplied by the \gls{MTHM} that needs to be transported.[m
+      The spent fuel inventory data[m
+[36m@@ -88,6 +91,7 @@[m [mlow $MTHM*km^2$ value and substantially large license area.\cite{NRC_Clinton}[m
+   [m
+   \iffalse[m
+   %ommitted due to lack of space[m
+[32m+[m[32m  %also Yucca Mountain site does not have crystalline bedrock.[m
+ \begin{figure}[!h] [m
+   \centering[m
+   \includegraphics[width=0.8\columnwidth]{Crystalline-Thickness}	[m
+[1mdiff --git a/main.tex b/main.tex[m
+[1mindex dbc1dbd..f956936 100644[m
+[1m--- a/main.tex[m
+[1m+++ b/main.tex[m
+[36m@@ -3,6 +3,12 @@[m
+ %how do i cite wikipedia? line11 body.tex[m
+ %bibliography issues[m
+ %get rid of 'no need for land purchase'[m
+[32m+[m[32m%reactor site more consenting.[m
+[32m+[m[32m% given a choice, we should try to colocate a borehole repository next to a reactor[m
+[32m+[m[32m% contract fee to exelon[m
+[32m+[m[32m% *****TVA model[m
+[32m+[m[32m% decommissioning vs[m[41m [m
+[32m+[m[32m% get decommissioning cost savings[m
+ [m
+ [m
+ [m
+[1mdiff --git a/temp/abstract.log b/temp/abstract.log[m
+[1mdeleted file mode 100644[m
+[1mindex 9ef952d..0000000[m
+[1m--- a/temp/abstract.log[m
+[1m+++ /dev/null[m
+[36m@@ -1,32 +0,0 @@[m
+[31m-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.22)  12 OCT 2016 15:43[m
+[31m-entering extended mode[m
+[31m- restricted \write18 enabled.[m
+[31m- %&-line parsing enabled.[m
+[31m-**abstract.tex[m
+[31m-(./abstract.tex[m
