@@ -26,11 +26,23 @@ a standalone 70,000 \gls{MTHM} borehole repository at the Yucca Mountain site.
 
 \subsection{Two Repository Case Definition}
 
-\section{Proposed Metrics}
+\section{Evaluation Metrics}
 
 To quantify the benefits of this repository design, a set of metrics are 
-proposed. In the following sections, the proposed metrics are defined and 
-applied to each case.
+proposed:
+
+\begin{itemize}
+        \item Transportation Burden $[MTHM \cdot km]$
+        \item Job Creation $[\#]$
+        \item Workforce Utilization $[\$]$ 
+        \item Expediency $[y]$
+        \item Consent Basis $[-]$
+        \item Site Access $[-]$
+
+These metrics and their definitions draw upon previous 
+\cite{freeze_siting_2015,ISRG_book_2016} as well as original work.  In the 
+following sections, the metrics are defined and applied to comparatively 
+evaluate each case.
 
 \subsection{Transportation Burden}
  In order to minimize transport cost, a central location is preferred. A metric 
@@ -43,7 +55,7 @@ applied to each case.
  coordinates of each power plant were obtained by scraping public data 
  \cite{wikipedia}.  The distance between each storage site (i.e. reactors and 
  \gls{ISFSI}) was then calculated by using the Haversine formula on the 
- geographical coordinates of both sites. 
+ geographical coordinates of the recieving and sending sites (1 and 2). 
 
  \begin{align} 
          \Phi_1,\Phi_2&= \mbox{latitude, radians}\\
@@ -69,11 +81,11 @@ Finally, this distance value is multiplied by the \gls{MTHM} that needs to be tr
         N &= \mbox{total number of facilities with spent fuel on site.}
 \end{align}
 
-The spent fuel inventory data is from the GC-859 survey data from the \gls{EIA} 
-\cite{eia} and the \gls{CURIE} website. The data was acquired
-by personal contact \cite{Domenico}.  From the list of 74 reactors, several 
-candidates which minimize $B [MTHM\cdot km]$, spent fuel transportation burden, 
-are listed below:
+This analysis used GC-859 spent fuel inventory data availalbe from \gls{EIA} 
+through private communication \cite{domenico_GC-859_2016} as well as \gls{CURIE}, a web interface to 
+the \gls{ORNL} universal database\cite{ornl_centralized_2016}.
+From the list of 74 reactors, several candidates which minimize $B [MTHM\cdot 
+km]$, spent fuel transportation burden, are listed below:
     
 \begin{table}[h]
 \centering
@@ -268,9 +280,9 @@ project should create somewhere in the low and medium estimate, which is about 1
 jobs.   
 
 
-\subsection{Consenting Locals}
+\subsection{Consent Basis}
 It is proven, through many global \gls{SNF} repository projects, that a consent-
-based approach to siting a repository is crucial. For such a development to happen,
+based approach to siting a repository is crucial \cite{. For such a development to happen,
 an amiable local community is crucial. 
 The proposed case provides various economic benefits to the local community including
 job creation, as mentioned above, and other benefits like property taxes. Clinton
