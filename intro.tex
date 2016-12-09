@@ -1,30 +1,34 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
-Faced with the challenge of nuclear spent fuel disposal siting, creative solutions 
-are necessary. This work proposes and evaluates a strategy that leverages the 
-remaining resources inherent in a shutdown nuclear reactor site toward a new 
+Creative solutions are necessary to meet the \gls{SNF} disposal challenges 
+faced by the United States.
+This work proposes and evaluates a strategy that leverages the 
+remaining resources inherent in a shut down nuclear reactor site toward a new 
 purpose: a consolidated interim storage and spent fuel repository facility.
 
-Domestic nuclear power plants are at risk of shut down in areas with surplus 
+Domestic nuclear power plants are at risk of shutdown in areas with surplus 
 electricity capacity from coal and new natural gas. Kewaunee and Crystal River 
-have already closed  and numerous other plants are scheduled to shut down in 
-the next few years \cite{nei_shutdowns_2016}.  Simultaneously, the Department 
-of energy has begun to move forward with consent-based siting of a nuclear 
-spent fuel repository \cite{doe_consent_2016}. The proposed solution in this 
+have already closed  and numerous other plants are at risk in the near term 
+\cite{nei_nuclear_2016}.  Simultaneously, the \gls{DOE} 
+has begun to move forward with consent-based siting of a nuclear 
+spent fuel repository \cite{doe_designing_2016}. The proposed solution in this 
 work seeks to combine these efforts toward a more economic and politically 
 feasible solution. 
 
 % explain that this work compares the base case with the proposal
-This work compares a base case which is to site a borehole-type repository in the
- Yucca Mountain region, to a base case, which is to site a borehole-type repository
- next to a shutdown nuclear power plant. The main expected benefits arising from the
- proposed case is transportation burden of radioactive waste, more consent-based
- siting with the local community, and modularity of the repository. 
+This work considers the potential benefits of siting a borehole-type reposiotry 
+at the site of a shut down nuclear power plant.  The  expected benefits of this 
+proposed integrated siting strategy include reduced radioactive waste 
+transportation burden, increased likelihood of consent from the local 
+community, and improved expediency acheived through leveraging existing 
+infrastructure and skill.
 
 % note the metrics on which these two cases are being compared.
-Each incentive criteria in the comparison is given a numerical value, which is
-weighted to its importance to various stakeholders. 
+Two variations of this siting strategy will be compared to a reference case at 
+Yucca Mountain through quantitative metrics. The incentives of various 
+stakeholders will also be modeled as a weighted linear sum of these 
+metrics. 
 
 \subsection{Motivation}
 The proposed integrated siting strategy takes advantage of three technical 
@@ -39,28 +43,81 @@ available footprint of a nuclear power reactor site, with only $30 km^2$
 required for the total \gls{SNF} amount proposed for Yucca Mountain 
 \cite{brady_deep_2009}.
 
-Integrated siting also has potential economic benefits. One 
-significant cost inherent to borehole repository concepts is the repacking of 
-spent fuel assemblies into smaller-diameter waste canisters. However, siting a 
+Integrated siting also has potential economic benefits. One significant cost 
+inherent to borehole repository concepts is the repacking of spent fuel 
+assemblies into smaller-diameter waste canisters representing over 15\% of 
+estimated per-borehole cost \cite{arnold_reference_2011}.  However, siting a 
 repository at a non-operating power plant facility, especially one with a 
 dry-cask storage site, will take advantage of already existing infrastructure 
 and local human talent for spent fuel handling and packaging. Many candidate 
-non-operating reactor sites, such as those mapped in Figure \ref{fig:shutdown} 
+non-operating reactor sites, such as those mapped in Figure \ref{fig:shutdown}, 
 may be appropriate for integrated siting if they are located above crystalline 
 basement formations and include dry cask packaging facilities.
 
+\begin{figure}[htpb!] 
+  \centering
+  \includegraphics[width=0.8\columnwidth]{power-reactors-decommissioning}	
+  \caption{Non-operating facilities status
+  \cite{nuclear_regulatory_commission_nrc_2015}.}
+  \label{fig:shutdown}
+\end{figure}
 
+Finally, integrated siting may be more practically and politically feasible. 
 Preliminary work \cite{waleed_regional_2015} indicates integrated siting is 
 appealing to many stakeholder groups. For example, a consent-based approval 
-process may be feasible because communities local to power plants may be uniquely 
-receptive to the incentives of hosting a repository.  
+process may be feasible because communities local to power plants may be 
+uniquely receptive to the incentives of hosting a repository. 
+
+This paper seeks to quantify the impact of these and other features of the 
+proposed siting strategy. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Methodology}
 
-This work will evaluate the potential impacts of integrated siting from the 
-perspective of 5 stakeholders:
+This work will evaluate \textbf{3 scenarios} for repository siting according to \textbf{6 metrics} of 
+performance considered from the perspective of \textbf{5 stakeholders.}
+
+Preliminary work \cite{waleed_regional_2015} suggests that integrated siting 
+will reduce costs, construction, time (both for construction and licensing), 
+transportation distances, and resistence from the local community.  
+The goal of this paper is to compare this siting strategy with the 
+business-as-usual base case via quantitative metrics capturing the key 
+priorities of stakeholders. Accordingly, the present 
+work will compare three siting scenarios along these axes. 
+
+\begin{itemize}
+        \item The reference case: a standalone borehole repository at Yucca Mountain.  
+        \item The proposed case: a repository sited at a shutdown reactor site 
+                in the midwest.
+        \item The combined case: both repositories in operation, burdened only 
+                by the \gls{SNF} generated in their half of the US. 
+\end{itemize}
+
+ This work will evaluate the potential impacts of each siting strategy according 
+to the following 6 quantitative measures:
+
+\begin{itemize}
+        \item Transportation Burden $[MTHM \cdot km]$: A site is preferred by 
+                most stakeholders if it can minimize the distance \gls{SNF} 
+                must travel.
+        \item Workforce Utilization $[\$]$: A repository site is preferred by 
+                many stakeholders if it utilizes an already skilled local 
+                workforce. 
+        \item Expediency $[y]$: Many stakeholders will benefit if the removal 
+                of dry casks from current storage pads is expedited.
+        \item Consent Basis $[\frac{MW}{\mbox{person}}]$: If there is a basis for a consent-based 
+                siting process to succeed, many stakeholders benefit.
+        \item Site Access $[-]$: Rail access to the site is essential for 
+                beginning operations.
+        \item Site Appropriateness $[-]$: A site must be geologically 
+                appropriate, of sufficient area, etc.
+\end{itemize}
+
+Finally, recognizing that these measures are valued differently by each, we
+consider possible weighting factors that may capture the perspectives of 5 key
+stakeholder groups:
+
 \begin{itemize}
         \item the federal government,
         \item the state government,
@@ -68,26 +125,5 @@ perspective of 5 stakeholders:
         \item the local community,
         \item and the owner of the non-operating plant.
 \end{itemize}
-
-
-Preliminary work \cite{waleed_regional_2015} suggests that integrated siting 
-will reduce costs, construction, time (both for construction and licensing), 
-transportation distances, and resistence from the local community.  The present 
-work will compare the proposal along these axes to a base case: a standalone 
-borehole repository at a similar location to that of Yucca Mountain.  
-Quantification of those stakeholder benefits will be undertaken for two 
-different regions of the US in addition to the base case.  
-
-Unique parameters are quantified using simple calculations from easily accessible
-data. The goal of this paper is to quantify different metrics in numbers in order
-to clarify siting methodology.
-
-\begin{figure}[!h] 
-  \centering
-  \includegraphics[width=0.8\columnwidth]{power-reactors-decommissioning}	
-  \caption{Non-operating facilities status
-  \cite{nuclear_regulatory_commission_nrc_2015}.}
-  \label{fig:shutdown}
-\end{figure}
 
 

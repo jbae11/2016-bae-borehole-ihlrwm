@@ -9,10 +9,12 @@ all-via-pdf: $(manuscript).tex $(references)
 	bibtex $(manuscript).aux
 	pdflatex $(latexopt) $<
 	pdflatex $(latexopt) $<
+	pdflatex $(latexopt) $<
 
 all-via-dvi: 
 	latex $(latexopt) $(manuscript)
 	bibtex $(manuscript).aux
+	latex $(latexopt) $(manuscript)
 	latex $(latexopt) $(manuscript)
 	latex $(latexopt) $(manuscript)
 	dvipdf $(manuscript)
