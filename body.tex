@@ -115,26 +115,58 @@ This analysis used GC-859 spent fuel inventory data availalbe from \gls{EIA}
 through private communication \cite{domenico_GC-859_2016} as well as \gls{CURIE}, a web interface to 
 the \gls{ORNL} universal database\cite{ornl_centralized_2016}.
 From the list of 74 reactors, several candidates which minimize $B [MTHM\cdot 
-km]$, spent fuel transportation burden, are listed below:
+km]$, spent fuel transportation burden, are listed in Table 1.
     
-\begin{table}[h]
-\centering
+    \begin{table}[h]
+    	\centering
+    	
+    	\caption {Reactors with relatively small spent fuel transportation burden $ [MTHM\cdot km]$.}
+    	\scalebox{0.86}{
+    		\begin{tabular}{|c|c|c|c|}
+    			\hline
+    			Reactor & State & $MTHM*km$ & License Area [$km^2$]  \\ \hline
+    			Clinton & Illinois &  \textbf{77,352,339} & \textbf{57.87}   \\ \hline
+    			Dresden & Illinois &  \textbf{77,663,969} & 3.856   \\ \hline
+    			Peach Bottom & Pennsylvania & 85,563,135 & 2.509   \\ \hline
+    			Indian Point &   New York & 84,097,374 & .967   \\ \hline
+    			Yucca Mountain & Nevada & 209,575,157 & N/A \\ \hline
+    			
+    		\end{tabular}}
+    		\end {table}
 
-        \caption {Reactors with relatively small spent fuel transportation burden $ [MTHM\cdot km]$.}
-    \scalebox{0.86}{
-	\begin{tabular}{l|l|l|l}
-	\hline
-	Reactor & State & $MTHM*km$ & License Area [$km^2$]  \\ \hline
-	Clinton & Illinois &  \textbf{77,352,339} & \textbf{57.87}   \\ \hline
-	Peach Bottom & Pennsylvania & 85,563,135 & 2.509   \\ \hline
-	Indian Point &   New York & 84,097,374 & .967   \\ \hline
-	Dresden & Illinois &  \textbf{77,663,969} & 3.856   \\ \hline
-	
-	\end{tabular}}
-\end {table}
+
+%Transitional Section and discussion on Yucca
 
 
-However, this partitioning assigns the Yucca Mountain site approximately 
+The Clinton Power Plant is chosen as the site for the proposed case due to its
+low $MTHM\cdot km$ value and substantially large license 
+area\cite{nrc_chapter_2007}.
+Considering that only
+$30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
+power plant allows more than  enough space to site a borehole repository, which
+avoids possible conflicts with the community from purchasing and utilizing more
+land. 
+
+The proposed case would require enormous cooperation from the utility that owns
+the power plant. In the case of Clinton, that would be Exelon Corporation. 
+Were Clinton facing shutdown, Exelon would have a srong incentive to 
+cooperate in order to utilize the facility property
+in a lucrative manner. In particular, Exelon would be able to save on decommissioning of
+Clinton by selling the property as well as the infrastructure to the 
+government. Though the reactor facility may need to be decommissioned, 
+this responsibility could be transferred to the federal government (or 
+independent \gls{SNF} management agency \cite{ayers_blue_2012}) upon 
+purchase of the land.
+
+Also, with recent events, the possibility of Yucca Mountain Repository's revival
+is on the rise. This brings out the third case, the combined case, where the new
+borehole repository will operate with the Yucca Mountain Repository. 
+
+%Yucca Mountain ain't borehole, but that's not quite important now...?
+%saying something like 'given borehole repository's modularity, it seems unnecessary..?'
+
+However, partitioning west and east with respect to the 92 west meridian yields the Yucca
+Mountain Repository site approximately 
 $14,000 [MTHM]$ of \gls{SNF}, much less than its proposed capacity of 70,000 MTHM. On the other hand, 
 the Clinton repository \gls{SNF} burden woud be reduced to 61,777 MTHM. The transportation burden is 
 $53,945,200 [MTHM\cdot km]$  
@@ -156,25 +188,6 @@ additional land purchase for the repository.
 
 %transition??
 
-The Clinton Power Plant is chosen as the site for the proposed case due to its
-        low $MTHM\cdot km$ value and substantially large license 
-        area\cite{nrc_chapter_2007}.
- Considering that only
- $30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
-  power plant allows more than  enough space to site a borehole repository, which
-   avoids possible conflicts with the community from purchasing and utilizing more
-    land. 
-  
-  The proposed case would require enormous cooperation from the utility that owns
-  the power plant. In the case of Clinton, that would be Exelon Corporation. 
-  Were Clinton facing shutdown, Exelon would have a srong incentive to 
-        cooperate in order to utilize the facility property
-  in a lucrative manner. In particular, Exelon would be able to save on decommissioning of
-  Clinton by selling the property as well as the infrastructure to the 
-        government. Though the reactor facility may need to be decommissioned, 
-        this responsibility could be transferred to the federal government (or 
-        independent \gls{SNF} management agency \cite{ayers_blue_2012}) upon 
-        purchase of the land.
   
   %Currently, Exelon has no 
   %incentive to cooperate, for they do not pay for storage of spent fuel, due to 
@@ -190,11 +203,11 @@ The Clinton Power Plant is chosen as the site for the proposed case due to its
 	%\scalebox{0.60}{
 		\begin{tabular}{|c|c|}
 			\hline
-			Case & Transportation Burden\\
+			Case & Transportation Burden [$MTHM\cdot km$]\\
 			\hline
-			Case I & HERE \\
-			Case II & HERE \\
-			Case III & HERE\\ 
+			Case I & 77,352,339 \\
+			Case II & 209,575,157 \\
+			Case III & 71,886,160\\ 
                         \hline
                 \end{tabular}
                 %}
