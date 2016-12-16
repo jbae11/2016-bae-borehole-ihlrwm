@@ -7,8 +7,8 @@ This paper proposes siting a borehole
  reference case at Yucca Mountain. Finally, a third case including repositories 
  at both sites is considered.  The details of these three scenarios are described in this section.
 
- For comparison's sake, all three cases include a borehole-type repository concept, and are compared 
- primarily with respect to the benefits of the three siting strategies.
+The paper focuses on the benefits that arise from the strategic siting of a repository 
+on a non-operating nuclear facility, and not the benefits that arise from the repository design. 
 The borehole design follows the Sandia Report Reference Design and Operations 
 for Deep Borehole Radioactive Waste \cite{arnold_reference_2011}. Selection of 
 an alternative borehole concept could impact the details of the repacking needs 
@@ -17,11 +17,11 @@ here.
  
 \subsection{Case I: Reference Case} 
 The reference case, upon which the proposed case seeks to improve, is to build 
-a standalone 70,000 \gls{MTHM} borehole repository at the Yucca Mountain site.
+a standalone 70,000 \gls{MTHM} mined repository at the Yucca Mountain site.
 
 The reference case is presented in order to demonstrate the cost savings and efficiencies 
-that arise from the proposed case. The base case mimics the Yucca Mountain Project
-but is a borehole-type repository. Costs include new licensing and processing facility for repacking the spent fuel assemblies.
+that arise from the proposed case. The base case mimics the Yucca Mountain Project.
+Costs include new licensing and processing facility for repacking the spent fuel assemblies.
 
 \subsection{Case II: Shut Down Plant Case}
 
@@ -69,8 +69,32 @@ not be a comparison to the previous two cases since it has different capacities.
 This paper introduces six metrics of siting performance. These metrics and 
 their definitions draw upon previous 
 \cite{freeze_siting_2015,waleed_regional_2015} as well as original work.  In 
-the following sections, the metrics are defined in more detail. In the final 
-section, they are applied to comparatively evaluate each case.
+the following sections, the metrics are defined in more detail, and normalized
+so that inn the final section, they are applied to comparatively evaluate each case.
+
+The normalization of the metrics are done to a scale of 0 to 1 using the below
+equation, where 0 is the worst possible value, and 1 the best. 
+%If the best case
+%value is smaller than the worst case value, the numerator and the denominator is
+%reversed.
+ Metrics like transportation burden, expediency, and consent basis,
+ are normalized in such a matter. Metrics without units are booleans, where values 
+ only exist in 0 or 1 values. For example, a 0 value for site access means 
+that there is no existing site access infrastructure.
+
+
+\begin{align} 
+	\mbox{if} B>W,\\
+	\mbox{NV} &= \frac{x-\mbox{W}}{\mbox{B}-\mbox{W}}\\
+	\mbox{if} B<W,\\
+	\mbox{NV} &= \frac{\mbox{B}-\mbox{W}}{x-\mbox{W}}\\
+	NV &= \mbox{normalized value for metric}\\
+	x &= \mbox{considered case value for metric}\\
+	B &= \mbox{best case value for metric}\\
+	W &= \mbox{worst case value for metric}\\
+\end{align}
+
+
 
 \subsection{Transportation Burden}
  In order to minimize transport cost, a central location is preferred. To 
@@ -111,7 +135,7 @@ section, they are applied to comparatively evaluate each case.
 This analysis used GC-859 spent fuel inventory data available from \gls{EIA} 
 through private communication \cite{domenico_GC-859_2016} as well as \gls{CURIE}, a web interface to 
 the \gls{ORNL} universal database\cite{ornl_centralized_2016}.
-From the list of 74 reactors, several candidates which minimize $B [MTHM\cdot 
+From the list of 74 sites, several candidates which minimize $B [MTHM\cdot 
 km]$, spent fuel transportation burden, are listed in Table 1.
     
     \begin{table}[h]
@@ -142,7 +166,7 @@ Considering that only
 $30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
 power plant allows more than  enough space to site a borehole repository, which
 avoids possible conflicts with the community from purchasing and utilizing more
-land. 
+land. 209575157-77
 
 The proposed case would require enormous cooperation from the utility that owns
 the power plant. In the case of Clinton, that would be Exelon Corporation. 
@@ -159,9 +183,6 @@ Also, with recent events, the possibility of Yucca Mountain Repository's revival
 is on the rise. This brings out the third case, the combined case, where the new
 borehole repository will operate with the Yucca Mountain Repository. 
 
-%Yucca Mountain ain't borehole, but that's not quite important now...?
-%saying something like 'given borehole repository's modularity, it seems unnecessary..?'
-
 However, partitioning west and east with respect to the 92 west meridian yields the Yucca
 Mountain Repository site approximately 
 $14,000 [MTHM]$ of \gls{SNF}, much less than its proposed capacity of 70,000 \gls{MTHM}. On the other hand, 
@@ -172,7 +193,14 @@ adds up to a sum of $71,886,160 MTHM\cdot km$, which is about 7\% less than that
 of Clinton repository alone. This does not provide a comparable advantage. Other
 reactor sites were tested in the transportation burden analysis but also failed
 to provide a substantial advantage. Also, the selection of potential sites
-was limited by the geological constraints shown in Figure 2.  
+was limited by the geological constraints shown in e equal, a line is drawn at the 84 west
+meridian, which yields $39,942 MTHM$ for the east repository, and $36,649 MTHM$ for
+the Yucca Mountain repository. One of the original candidates, the Peach Bottom
+reactor in Pennsylvania is then chosen for its central location in the east area.
+However, this analysis yields a $MTHM\cdot km$ value of $92,575,081 MTHM\cdot km$,
+which is substantially larger than that of having one repository in Clinton. 
+Also, the Peach Bottom reactor site has little licensed land, which will require
+additional land purchase for the repository. Figure 2.  
 
 If the power total MTHM value were to be equal, a line is drawn at the 84 west
 meridian, which yields $39,942 MTHM$ for the east repository, and $36,649 MTHM$ for
@@ -188,13 +216,13 @@ additional land purchase for the repository.
 	\centering
         \caption {Transportation Burden for Each Case}
 	%\scalebox{0.60}{
-		\begin{tabular}{|c|c|}
+		\begin{tabular}{|c|c|c|}
 			\hline
-			Case & Transportation Burden [$MTHM\cdot km$]\\
+			Case & Transportation Burden [$MTHM\cdot km$] & NV\\
 			\hline
-			Case I & 77,352,339 \\
-			Case II & 209,575,157 \\
-			Combined & 71,886,160\\ 
+			Case I & 209,575,157  & 0\\
+			Case II & 77,352,339 & 1 \\
+			Combined & 71,886,160 & .96\\ 
                         \hline
                 \end{tabular}
                 %}
@@ -267,10 +295,6 @@ services can be utilized without bringing a whole new group of workers to the
 area \cite{iaea_managing_2008}. Also, the shutdown of Clinton Power Plant would cause a dramatic
 loss of jobs in the community. 
 
-
-%why is there such a huge difference between Riddel and Loomis?
-
-
 The void created by the shutdown of the Clinton plant can be, though not
 completely, filled by the new construction of a borehole repository. The construction
 will prioritize local hires as an incentive to ease local opposition on repository
@@ -283,11 +307,6 @@ Shale in southern Illinois estimated that such a project can create 1,000-47,000
 \cite{loomis_potential_2012}. Translating the workforce to central Illinois and the borehole
 project should create somewhere in the low and medium estimate, which is about 10,000
 jobs.   
-%on top of everything we talked about,
-
-%facilities involved,
-%transportation of human/material resources and talent
-%
 
 The proposed case has a larger advantage over the base case in the sense that there
 are already existing facility in regards to spent fuel handling and worker lodging 
@@ -307,7 +326,7 @@ proposed case.
 			\hline
 			Case I & 0 \\
 			Case II & 1 \\
-			Combined & 0.5\\ 
+			Combined & 0.5 \\ 
 			\hline
                 \end{tabular}
                 %}
@@ -364,7 +383,7 @@ U.S. \gls{EIA} \cite{eia_state_2012} and the U.S. Census \cite{census}.
 		\begin{tabular}{|c|c|c|c|c|}
 			\hline
 			State & Net Nuclear Capacity (MW) & Census Population & \gls{NMWPC} ($10^{-3}$) \\ \hline
-			South Carolina & 6,486 & 4,625,401 & 1.4 \\ \hline
+			South Carolina & 6,486 & 4,625,401 & 1.4  \\ \hline
 			Alabama & 5,043 & 4,780,127 & 1.05 \\ \hline
 			Vermont & 620 & 625,745 & .99 \\ \hline
 			Illinois & 11,441 & 12,831,549 & .89 \\ \hline
@@ -392,13 +411,13 @@ in a state-level.
 	\caption {\gls{NMWPC} values for Each Case}
 
 	%\scalebox{0.60}{
-		\begin{tabular}{|c|c|}
+		\begin{tabular}{|c|c|c|}
 			\hline
-			Case & NMWPC \\
+			Case & NMWPC & NV \\
 			\hline
-			Case I & .89\\
-			Case II & 0\\
-			Combined & .736 %?????????
+			Case I & 0 & 0\\
+			Case II & .89 & .635\\
+			Combined & .736 & .525 %?????????
 			\\
 			\hline
                 \end{tabular}
@@ -569,13 +588,13 @@ majority of \gls{SNF} would be destined for the eastern repository, in the combi
 	\centering
         \caption {Expediency in Each Case}
 	%\scalebox{0.60}{
-		\begin{tabular}{|c|c|}
+		\begin{tabular}{|c|c|c|}
 			\hline
-                        Case & Time Saved [y] \\
+                        Case & Time Saved [y] & NV \\
 			\hline
-			Case I & 0 \\
-			Case II & 5 \\
-			Combined & 5\\ 
+			Case I & 0 & 0\\
+			Case II & 5 & 1 \\
+			Combined & 5 & 1\\ 
 			\hline
                 \end{tabular}
                 %}
@@ -592,21 +611,26 @@ alongside the weights indicating the magnitude of the importance of the incentiv
 \centering
 \caption {Metrics and Weight for Each Stakeholder}
 \label{tab:stakeholders}
-\scalebox{0.65}{
-	\begin{tabular}{|l|l|l|l|l|}
+\scalebox{0.8}{
+	\begin{tabular}{|l|c|c|c|c|}
 	\hline
-	 & Federal & State & Local & Utility  \\ \hline
+	Metric & Federal & State & Local & Utility  \\ \hline
 	Transportation Burden & 3 & 2 & 1 & 1    \\ \hline
 	Site Appropriateness & 3 & 2 & 1 & 1 \\ \hline
 	Workforce Utilization & 3 & 2 & 2 & 2 \\ \hline
 	Consenting Locals & 3 & 2 & 3 & 2 \\ \hline
 	Site Access & 3 & 2 & 1 & 1 \\ \hline
-	Expediency & 3 & 2 & 1 & 3 \\ \hline
-	
+	Expediency & 3 & 2 & 1 & 3 \\ \hline \hline
+	Case I total & 3 &2 &1 & 1 \\ \hline
+	Case II total & 16.9 & 11.2 & 7.9 & 9.2 \\ \hline
 	\end{tabular}}
 \end{table}
 
+Results show that it is far more attractive for various stakeholders to 
+site a repository at a non-operating nuclear power plant. Through strategical
+siting, all the parties involved can benefit.
+
 Given the current circumstances, a repository is crucial for the survival of nuclear
 power. By siting one in a central location with sufficient licensed land,
-a repository with sizeable capacity can be built cheaper, more efficiently, and 
+a repository with sizable capacity can be built cheaper, more efficiently, and 
 in a consent-based manner with the local community. 
