@@ -33,8 +33,8 @@ considered here to represent integrated repository siting at a reactor facility
 faced with potential shutdown.
 
 The Clinton Nuclear Power Station is owned by the Exelon Corporation. It has a 
-licensed land area of approximately $58km^2$ and a $20km^2$ cooling heat sink, 
-the Clinton Lake. Of the licensed land area, only $.6km^2$ is used for the facility.  
+licensed land area of approximately $58 km^2$ and a $20 km^2$ cooling heat sink, 
+the Clinton Lake. Of the licensed land area, only $0.6 km^2$ is used for the facility.  
 \cite{nrc_chapter_2007}.  This leaves enough room left for a 70,000 \gls{MTHM} 
 borehole repository without additional land purchase from the public.
 
@@ -50,7 +50,7 @@ selection was made.
 In this scheme, eastern reactors send their spent fuel to the eastern 
 repository site while western reactors send theirs to the western site. Thus, 
 the less-nuclear western region will not bear the burden of hosting a 
-repository for the eastern region, which has a higher percent of nuclear 
+repository for the eastern region, which has a larger percent of nuclear 
 energy. 
 
 For this scenario, spent fuel west of the 92 west meridian is considered west, 
@@ -59,8 +59,68 @@ meridian is considered east, which will send its \gls{SNF} to the proposed Clint
 power plant. The 92 west meridian is chosen because it is the meridian just west of
 Illinois state borders, so that no Illinois power plants have to transport their
 spent fuel to Yucca Mountain. This plan will be analyzed in the paper but should
-not be a comparison to the previous two cases since it has different capacities. %no division.
+not be a comparison to the previous two cases because it has different capacities. %no division.
 
+
+\section{Methodology}
+
+This work will evaluate \textbf{2 scenarios} for repository siting according to \textbf{6 metrics} of 
+performance considered from the perspective of \textbf{4 stakeholders.}
+
+Preliminary work \cite{waleed_regional_2015} suggests that integrated siting 
+will reduce costs, construction, time (both for construction and licensing), 
+transportation distances, and resistance from the local community.  
+The goal of this paper is to compare this siting strategy with the 
+business-as-usual base case via quantitative metrics capturing the key 
+priorities of stakeholders. Accordingly, the present 
+work will compare case one and two along these axes. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\iffalse
+
+\begin{itemize}
+	\item The reference case: a standalone borehole repository at Yucca Mountain.  
+	\item The proposed case: a repository sited at a shutdown reactor site 
+	in the Midwest.
+
+\fi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{itemize}
+
+This work will evaluate the potential impacts of each siting strategy according 
+to the following 6 quantitative measures:
+
+\begin{itemize}
+	\item Transportation Burden $[MTHM \cdot km]$: A site is preferred by 
+	most stakeholders if it can minimize the distance \gls{SNF} 
+	must travel.
+	\item Workforce Utilization $[-]$: A repository site is preferred by 
+	many stakeholders if it utilizes an already situated skilled local 
+	workforce. 
+	\item Expediency $[y]$: Many stakeholders will benefit if the removal 
+	of dry casks from current storage pads is expedited.
+	\item Consent Basis $[\frac{nuclear MW}{\mbox{capita}}]$: If the community
+	 beneifts from nuclear energy, they are more likely to be consenting to
+	 site a repository. If there is a basis for a consent-based 
+	siting process to succeed, many stakeholders benefit.
+	\item Site Access $[-]$: Rail access to the site is essential for 
+	beginning operations.
+	\item Site Appropriateness $[-]$: A site must be geologically 
+	appropriate and of sufficient area.
+\end{itemize}
+
+Finally, recognizing that these measures are valued differently by each, we
+consider possible weighting factors that may capture the perspectives of 4 key
+stakeholder groups:
+
+\begin{itemize}
+	\item the federal government,
+	\item the state government,
+	\item the local government / community,
+	\item and the owner of the non-operating plant.
+\end{itemize}
 
 
 \section{Evaluation Metrics}
@@ -71,8 +131,8 @@ their definitions draw upon previous
 the following sections, the metrics are defined in more detail, and normalized
 so that in the final section, they are applied to comparatively evaluate each case.
 
-The normalization of the metrics are done to a scale of 0 to 1 using the below
-equation, where 0 is the worst possible value, and 1 the best. 
+The normalization of the metrics are done to a scale of 0 to 1 using the equation
+below, where 0 is the worst possible value, and 1 the best. 
 %If the best case
 %value is smaller than the worst case value, the numerator and the denominator is
 %reversed.
@@ -84,10 +144,10 @@ that there is no existing site access infrastructure.
 
 \begin{align} 
 	\mbox{NV} &= \frac{x-\mbox{W}}{\mbox{B}-\mbox{W}}\\
-	NV &= \mbox{normalized value for metric}\\
-	x &= \mbox{considered case value for metric}\\
-	B &= \mbox{best case value for metric}\\
-	W &= \mbox{worst case value for metric}\\
+	NV &= \mbox{normalized value for the metric}\\
+	x &= \mbox{considered case value for the metric}\\
+	B &= \mbox{best case value for the metric}\\
+	W &= \mbox{worst case value for the metric}\\
 \end{align}
 
 
@@ -109,13 +169,13 @@ that there is no existing site access infrastructure.
  geographical coordinates of the receiving and sending sites (1 and 2). 
 
  \begin{align} 
-         \Phi_1,\Phi_2&= \mbox{latitude, radians}\\
-         \lambda_1,\lambda_2 &= \mbox{longitude, radians}\\
+         \Phi_1,\Phi_2&= \mbox{latitude in radians}\\
+         \lambda_1,\lambda_2 &= \mbox{longitude in radians}\\
          \Delta\lambda &= \left|\lambda_1 - \lambda_2\right|\\
          \Delta\Phi &= \left|\Phi_1 - \Phi_2\right|\\
          a&=\sin^2(\Delta\Phi)+\cos(\Phi_1)\cos(\Phi_2)\sin^2{\left(\frac{\Delta\lambda}{2}\right)}\\
-         c &= 2arctan2(\sqrt{a},\sqrt{1-a})\\
-         d &=  (6,371km)c
+         c &= 2 \cdot arctan2(\sqrt{a},\sqrt{1-a})\\
+         d &=  (6,371km) \cdot c
  \end{align}
 
 \begin{align}
@@ -123,7 +183,7 @@ that there is no existing site access infrastructure.
         B &= \sum_i^N b_i\\
         \intertext{where}
         b_i &= \mbox{spent fuel transport burden from facility i}\\
-        m_i &= \mbox{mass at facility i}\\
+        m_i &= \mbox{mass of spent fuel at facility i}\\
         B &= \mbox{total spent fuel transport burden}\\
         N &= \mbox{total number of facilities with spent fuel on site.}
 \end{align}
@@ -155,11 +215,11 @@ km]$, spent fuel transportation burden, are listed in Table 1.
 %Transitional Section and discussion on Yucca
 
 
-The Clinton Power Plant is chosen as the site for the proposed case due to its
-low $MTHM\cdot km$ value and substantially large license 
+The Clinton Power Plant was chosen as the site for the proposed case due to its
+small $MTHM\cdot km$ value and substantially large license 
 area\cite{nrc_chapter_2007}.
 Considering that only
-$30km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
+$30 km^2$ is required for all the total \gls{SNF} amount, the licensed area at Clinton
 power plant allows more than  enough space to site a borehole repository, which
 avoids possible conflicts with the community from purchasing and utilizing more
 land. 
@@ -172,7 +232,7 @@ in a lucrative manner. In particular, Exelon would be able to save on decommissi
 Clinton by selling the property as well as the infrastructure to the 
 government. Though the reactor facility may need to be decommissioned, 
 this responsibility could be transferred to the federal government (or 
-independent \gls{SNF} management agency \cite{ayers_blue_2012}) upon 
+an independent \gls{SNF} management agency \cite{ayers_blue_2012}) upon 
 purchase of the land.
 
 Also, with recent events, the possibility of Yucca Mountain Repository's revival
@@ -191,7 +251,7 @@ reactor sites were tested in the transportation burden analysis but also failed
 to provide a substantial advantage. Also, the selection of potential sites
 was limited by the geological constraints shown in Figure 2.
 
-If the power total MTHM value were to be equal, a line is drawn at the 84 west
+If the power total MTHM value were to be equal, a line can be drawn at the 84 west
 meridian, which yields $39,942 MTHM$ for the east repository, and $36,649 MTHM$ for
 the Yucca Mountain repository. One of the original candidates, the Peach Bottom
 reactor in Pennsylvania is then chosen for its central location in the east area.
@@ -220,9 +280,9 @@ additional land purchase for the repository.
  \subsection{Site Appropriateness} 
 
   To host a borehole repository, the site must satisfy geologic requirements. 
-  Figure \ref{fig:cbrock} is a map indicating the geologic fitness of various 
+  Figure \ref{fig:cbrock} is a map indicating the geological fitness of various 
   regions of the United States. The proposed site at Clinton sits above 
-  a crystalline basement which lies at an appropriate depth 
+  a crystalline basement which lies at an appropriate depth.
 
 \begin{figure}[!h] 
   \centering
@@ -231,7 +291,7 @@ additional land purchase for the repository.
         crystalline basement rock at less than 2000 meters depth. Tectonic 
         activity impacting siting considerations are also mapped:  Quaternary 
         faulting, volcanism, and seismic hazard (yellow shading = 2\% 
-        probability of exceeding 0.2 g in 50 years).}
+        probability of exceeding 0.2 g of ground acceleration in 50 years).}
   \label{fig:cbrock}
 \end{figure}
 
@@ -327,13 +387,13 @@ Furthermore, the Swedish precedent \cite{olsson_experiences_2013} shows that
 municipalities near nuclear facilities
 are more likely to volunteer to site a repository in their community.
 
-Since populations local to operating reactor sites are more likely to be 
+Because populations local to operating reactor sites are more likely to be 
 favorable toward nuclear power, and the proposed integrated siting 
 is in an already-nuclear community by design, this siting strategy inherently 
 maximizes the local consent basis.
 
 The source of this favorable attitude varies by site. 
-the local community is the beneficiary of various economic benefits
+The local community is the beneficiary of various economic benefits
 including job creation and the substantial property taxes paid by the utility 
 toward regional governmental budgets.   In the case of the Clinton Power Plant, 
 Exelon pays \$15 million in property taxes each year, which amounts to about 
@@ -343,7 +403,7 @@ The eventual shutdown of the plant would have caused a dramatic loss of the econ
 It is also speculated that 13,300 jobs would be lost in Illinois after five years 
 of plant shutdown \cite{reid_study:_2014}.  
 
-A similar phenomenon might be expected at the state level as well, since 
+A similar phenomenon might be expected at the state level as well, because 
 Illinois generates more nuclear energy than any other U.S.  state with a net 
 capacity of 11,441 megawatts in 2010 \cite{eia_state_2012}. Nevada, on the other 
 hand, hosts zero nuclear power plants. Thus, it can only be natural for Nevada 
@@ -355,7 +415,7 @@ corresponding greater likelihood to be favorable toward hosting an \gls{SNF}
 repository, should be quantifiable by a measure of the benefit experienced by 
 the community.  For simplicity, we quantify the proximity to nuclear energy at 
 the state level  based on power consumed. The corresponding state and regional 
-metrics (expressed in MW of nuclear power per capita) are listed below. This 
+metrics (expressed in MW of nuclear power per capita) are listed in Table V. This 
 analysis uses nuclear power generation capacity and population data from the 
 U.S. \gls{EIA} \cite{eia_state_2012} and the U.S. Census \cite{census}.  
 
@@ -430,10 +490,8 @@ Operating reactors, conversely, are much more likely to be located along rail
 lines. In the case of the Clinton nuclear power plant, 
 the Canadian National rail line \cite{waleed_regional_2015} has a station in 
 Clinton and dedicated tracks leading into the reactor facility, as shown in 
-Figure \ref{fig:cnmap}.
-
-An already existing railway can avoid costs and delays related to building a 
-new infrastructure.
+Figure \ref{fig:cnmap}. An already existing railway can avoid costs and delays related
+ to building a new infrastructure.
 
 \begin{figure}[!h] 
   \centering
@@ -506,7 +564,7 @@ accordingly, resumed collection of the \gls{NWF},
 which will fund the repository operation and maintenance.
 
   The reference Yucca Mountain case does not require land purchase 
-  since the land near Yucca Mountain is part of the Nevada Test Site. However, 
+  because the land near Yucca Mountain is part of the Nevada Test Site. However, 
   it is lacking in infrastructure for \gls{SNF} handling.
   
   As mentioned previously, the licensed land area in the Clinton case is 
@@ -517,7 +575,7 @@ which will fund the repository operation and maintenance.
   facilities on site when Exelon shuts down the reactor.
 
   This would suggest a beneficial trade for both parties, since the government
-  can purchase infrastructure and land simultaneously, and since Exelon can vastly
+  can purchase infrastructure and land simultaneously, and because Exelon can vastly
   save the cost of decommissioning by selling off the reactor site. The reactor
   core and power-generating component of the reactor site needs to be decommissioned,
   however. As a comparison, Maine Yankee, a \gls{PWR} with a capacity of 860MWe, had a
@@ -534,16 +592,16 @@ which will fund the repository operation and maintenance.
 
 The proposed case, being a once-operating nuclear power plant, has the facility to 
 repack the spent fuel assemblies into a disposal cask. Its dry cask infrastructure 
-is currently in use. However, this facility needs to be upgraded to increase its throughput, and should be preferably automatic, to minimize worker exposure. The transported spent fuel assemblies are repacked and inspected at the upgraded facility, and is sent to the emplacement tubes for final disposal. Not having to build an entirely new above-ground facility should greatly ease the consent-based process, for it seems like there's minimal impact. 
+is currently in use. However, this facility needs to be upgraded to increase its throughput, and should be preferably automatic, to minimize worker exposure. The transported spent fuel assemblies are repacked and inspected at the upgraded facility, and is sent to the emplacement tubes for final disposal. Not having to build an entirely new above-ground facility should greatly ease the consent-based process, for it seems like there would be minimal impact. 
  
 The utility has a very high incentive since it will save on its decommissioning fee.
 The construction of the repository next to the reactor site would substantially
 reduce the cost of decommissioning, and it would not have to expand its dry storage
-to empty out the pools. Exelon would be getting a profitable margin out of a
+to empty out the pools. Exelon would be earning a profitable margin out of a
 used nuclear power plant, which would otherwise be a cost burden to handle.
 
 The base case requires a new above-ground facility, which not only costs a great
-amount, but also will be considered problematic to the public's eye. 
+amount, but also will be considered problematic in the public's eye. 
 
 %no specific advantage over the base case
 
@@ -588,7 +646,6 @@ the list of stakeholders considered follows in Table \ref{tab:stakeholders}
 alongside the weights indicating the magnitude of the importance of the incentive.
  
 \begin{table}[h]
-d
 \centering
 \caption {Metrics and Weight for Each Stakeholder}
 \label{tab:stakeholders}
